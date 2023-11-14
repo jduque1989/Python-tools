@@ -40,7 +40,6 @@ def check_input():
 
 word_definition = None
 word = words.get_word()
-print(word)
 count = 0
 guesses = set()
 
