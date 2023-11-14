@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "disccounts"
+version = "0.1.0"
+description = "This enviroment create all the .py to upload in automatic disscounts"
+authors = ["Juan D <juan@liberatemarketing.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "3.12"
+pandas = "^2.1.1"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
