@@ -1,0 +1,837 @@
+2024-06-21 21:53:12,130:INFO:====== WebDriver manager ======
+2024-06-21 21:53:12,226:INFO:Get LATEST chromedriver version for google-chrome
+2024-06-21 21:53:12,257:INFO:Get LATEST chromedriver version for google-chrome
+2024-06-21 21:53:12,291:INFO:Driver [/Users/juandavidduquea/.wdm/drivers/chromedriver/mac64/118.0.5993.70/chromedriver-mac-arm64/chromedriver] found in cache
+2024-06-21 21:53:38,605:INFO:No orders found.
+2024-06-21 21:53:38,681:WARNING:Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x102e2a710>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/954c6a56dada1e59ccb5926e4e3e10e7
+2024-06-21 21:53:38,681:WARNING:Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x102e2a1d0>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/954c6a56dada1e59ccb5926e4e3e10e7
+2024-06-21 21:53:38,683:WARNING:Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x102e2b990>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/954c6a56dada1e59ccb5926e4e3e10e7
+2024-06-21 21:58:41,865:INFO:====== WebDriver manager ======
+2024-06-21 21:58:41,961:INFO:Get LATEST chromedriver version for google-chrome
+2024-06-21 21:58:42,002:INFO:Get LATEST chromedriver version for google-chrome
+2024-06-21 21:58:42,040:INFO:Driver [/Users/juandavidduquea/.wdm/drivers/chromedriver/mac64/118.0.5993.70/chromedriver-mac-arm64/chromedriver] found in cache
+2024-06-21 21:59:20,170:INFO:No orders found.
+2024-06-21 21:59:20,241:WARNING:Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x104166410>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/7b64f5b557ed0aa6b72f4ae4997f2e96
+2024-06-21 21:59:20,241:WARNING:Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1041675d0>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/7b64f5b557ed0aa6b72f4ae4997f2e96
+2024-06-21 21:59:20,242:WARNING:Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x104167d10>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/7b64f5b557ed0aa6b72f4ae4997f2e96
+2024-06-21 21:59:28,535:INFO:====== WebDriver manager ======
+2024-06-21 21:59:28,629:INFO:Get LATEST chromedriver version for google-chrome
+2024-06-21 21:59:28,669:INFO:Get LATEST chromedriver version for google-chrome
+2024-06-21 21:59:28,705:INFO:Driver [/Users/juandavidduquea/.wdm/drivers/chromedriver/mac64/118.0.5993.70/chromedriver-mac-arm64/chromedriver] found in cache
+2024-06-21 21:59:46,948:INFO:No orders found.
+2024-06-21 21:59:47,021:WARNING:Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x102e6ab10>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/58b511e42f9c72eba2f65b53492ebd8a
+2024-06-21 21:59:47,022:WARNING:Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x102e6b5d0>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/58b511e42f9c72eba2f65b53492ebd8a
+2024-06-21 21:59:47,023:WARNING:Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x102e6bd10>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/58b511e42f9c72eba2f65b53492ebd8a
+2024-06-21 22:00:04,048:INFO:====== WebDriver manager ======
+2024-06-21 22:00:04,143:INFO:Get LATEST chromedriver version for google-chrome
+2024-06-21 22:00:04,174:INFO:Get LATEST chromedriver version for google-chrome
+2024-06-21 22:00:04,201:INFO:Driver [/Users/juandavidduquea/.wdm/drivers/chromedriver/mac64/118.0.5993.70/chromedriver-mac-arm64/chromedriver] found in cache
+2024-06-21 22:00:35,114:INFO:No orders found.
+2024-06-21 22:00:35,191:WARNING:Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x105f65010>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/20f1052129fdc0ab7b099c1cbacfb409
+2024-06-21 22:00:35,192:WARNING:Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x105f67490>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/20f1052129fdc0ab7b099c1cbacfb409
+2024-06-21 22:00:35,192:WARNING:Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x105f67b50>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/20f1052129fdc0ab7b099c1cbacfb409
+2024-06-21 22:02:29,480:INFO:====== WebDriver manager ======
+2024-06-21 22:02:29,576:INFO:Get LATEST chromedriver version for google-chrome
+2024-06-21 22:02:30,612:INFO:Get LATEST chromedriver version for google-chrome
+2024-06-21 22:02:30,652:INFO:Driver [/Users/juandavidduquea/.wdm/drivers/chromedriver/mac64/118.0.5993.70/chromedriver-mac-arm64/chromedriver] found in cache
+2024-06-21 22:03:10,935:INFO:====== WebDriver manager ======
+2024-06-21 22:03:11,028:INFO:Get LATEST chromedriver version for google-chrome
+2024-06-21 22:03:11,060:INFO:Get LATEST chromedriver version for google-chrome
+2024-06-21 22:03:11,096:INFO:Driver [/Users/juandavidduquea/.wdm/drivers/chromedriver/mac64/118.0.5993.70/chromedriver-mac-arm64/chromedriver] found in cache
+2024-06-21 22:04:11,619:INFO:No orders found.
+2024-06-21 22:04:11,711:WARNING:Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x102c69d90>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/738abd3781a24c8bd857a9006c77591e
+2024-06-21 22:04:11,711:WARNING:Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x102c6b450>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/738abd3781a24c8bd857a9006c77591e
+2024-06-21 22:04:11,712:WARNING:Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x102c6bb10>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/738abd3781a24c8bd857a9006c77591e
+2024-06-21 22:04:58,032:INFO:====== WebDriver manager ======
+2024-06-21 22:04:58,124:INFO:Get LATEST chromedriver version for google-chrome
+2024-06-21 22:04:58,166:INFO:Get LATEST chromedriver version for google-chrome
+2024-06-21 22:04:58,190:INFO:Driver [/Users/juandavidduquea/.wdm/drivers/chromedriver/mac64/118.0.5993.70/chromedriver-mac-arm64/chromedriver] found in cache
+2024-06-21 22:05:46,617:INFO:No orders found.
+2024-06-21 22:05:46,710:WARNING:Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x101b06190>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/b77e47545ddd5c1300c7f25956d0027e
+2024-06-21 22:05:46,711:WARNING:Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x101b074d0>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/b77e47545ddd5c1300c7f25956d0027e
+2024-06-21 22:05:46,712:WARNING:Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x101b07c10>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/b77e47545ddd5c1300c7f25956d0027e
+2024-06-21 22:07:13,585:INFO:====== WebDriver manager ======
+2024-06-21 22:07:13,683:INFO:Get LATEST chromedriver version for google-chrome
+2024-06-21 22:07:13,725:INFO:Get LATEST chromedriver version for google-chrome
+2024-06-21 22:07:13,751:INFO:Driver [/Users/juandavidduquea/.wdm/drivers/chromedriver/mac64/118.0.5993.70/chromedriver-mac-arm64/chromedriver] found in cache
+2024-06-21 22:08:03,573:INFO:No orders found.
+2024-06-21 22:08:03,664:WARNING:Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1045095d0>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/b4dc0213c3fc6fc09de6dd294dd5b732
+2024-06-21 22:08:03,665:WARNING:Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x10450b5d0>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/b4dc0213c3fc6fc09de6dd294dd5b732
+2024-06-21 22:08:03,666:WARNING:Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x10450bd10>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/b4dc0213c3fc6fc09de6dd294dd5b732
+2024-06-21 22:09:34,997:INFO:====== WebDriver manager ======
+2024-06-21 22:09:35,089:INFO:Get LATEST chromedriver version for google-chrome
+2024-06-21 22:09:35,121:INFO:Get LATEST chromedriver version for google-chrome
+2024-06-21 22:09:35,151:INFO:Driver [/Users/juandavidduquea/.wdm/drivers/chromedriver/mac64/118.0.5993.70/chromedriver-mac-arm64/chromedriver] found in cache
+2024-06-21 22:10:20,907:INFO:No orders found.
+2024-06-21 22:10:20,992:WARNING:Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x103c9e890>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/7bfedfa04e885928dd6844ebb3bbab61
+2024-06-21 22:10:20,993:WARNING:Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x103c9f490>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/7bfedfa04e885928dd6844ebb3bbab61
+2024-06-21 22:10:20,995:WARNING:Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x103c9fc50>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/7bfedfa04e885928dd6844ebb3bbab61
+2024-06-21 22:19:52,093:INFO:====== WebDriver manager ======
+2024-06-21 22:19:52,184:INFO:Get LATEST chromedriver version for google-chrome
+2024-06-21 22:19:52,215:INFO:Get LATEST chromedriver version for google-chrome
+2024-06-21 22:19:52,248:INFO:Driver [/Users/juandavidduquea/.wdm/drivers/chromedriver/mac64/118.0.5993.70/chromedriver-mac-arm64/chromedriver] found in cache
+2024-06-21 22:20:34,240:WARNING:Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x102211810>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/434b19ce1e9253f3df1f5701bfae857d
+2024-06-21 22:20:34,241:WARNING:Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x102212f90>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/434b19ce1e9253f3df1f5701bfae857d
+2024-06-21 22:20:34,243:WARNING:Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x102213810>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/434b19ce1e9253f3df1f5701bfae857d
+2024-06-21 22:21:03,835:INFO:====== WebDriver manager ======
+2024-06-21 22:21:03,932:INFO:Get LATEST chromedriver version for google-chrome
+2024-06-21 22:21:03,962:INFO:Get LATEST chromedriver version for google-chrome
+2024-06-21 22:21:03,987:INFO:Driver [/Users/juandavidduquea/.wdm/drivers/chromedriver/mac64/118.0.5993.70/chromedriver-mac-arm64/chromedriver] found in cache
+2024-06-21 22:21:34,829:INFO:No orders found.
+2024-06-21 22:21:36,542:WARNING:Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x101c150d0>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/779202a5215021b996fc7763da95e8a7
+2024-06-21 22:21:36,543:WARNING:Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x101c17550>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/779202a5215021b996fc7763da95e8a7
+2024-06-21 22:21:36,544:WARNING:Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x101c17c10>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/779202a5215021b996fc7763da95e8a7
+2024-06-21 22:24:04,208:INFO:====== WebDriver manager ======
+2024-06-21 22:24:04,300:INFO:Get LATEST chromedriver version for google-chrome
+2024-06-21 22:24:04,330:INFO:Get LATEST chromedriver version for google-chrome
+2024-06-21 22:24:04,364:INFO:Driver [/Users/juandavidduquea/.wdm/drivers/chromedriver/mac64/118.0.5993.70/chromedriver-mac-arm64/chromedriver] found in cache
+2024-06-21 22:24:36,605:INFO:No orders found.
+2024-06-21 22:24:38,287:WARNING:Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x102b28110>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/4de996e2ee6f9725ed36c5ca4b6f8e8b
+2024-06-21 22:24:38,288:WARNING:Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x102b28890>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/4de996e2ee6f9725ed36c5ca4b6f8e8b
+2024-06-21 22:24:38,290:WARNING:Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x102b292d0>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/4de996e2ee6f9725ed36c5ca4b6f8e8b
+2024-06-21 22:26:50,373:INFO:====== WebDriver manager ======
+2024-06-21 22:26:50,465:INFO:Get LATEST chromedriver version for google-chrome
+2024-06-21 22:26:50,499:INFO:Get LATEST chromedriver version for google-chrome
+2024-06-21 22:26:50,523:INFO:Driver [/Users/juandavidduquea/.wdm/drivers/chromedriver/mac64/118.0.5993.70/chromedriver-mac-arm64/chromedriver] found in cache
+2024-06-21 22:30:11,755:INFO:====== WebDriver manager ======
+2024-06-21 22:30:11,844:INFO:Get LATEST chromedriver version for google-chrome
+2024-06-21 22:30:11,901:INFO:Get LATEST chromedriver version for google-chrome
+2024-06-21 22:30:11,940:INFO:Driver [/Users/juandavidduquea/.wdm/drivers/chromedriver/mac64/118.0.5993.70/chromedriver-mac-arm64/chromedriver] found in cache
+2024-06-21 22:30:41,667:INFO:No orders found.
+2024-06-21 22:30:43,374:WARNING:Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x10601c110>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/151bdcb0c94c6ee5d408d0a769cff7cc
+2024-06-21 22:30:43,376:WARNING:Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x10601cb50>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/151bdcb0c94c6ee5d408d0a769cff7cc
+2024-06-21 22:30:43,378:WARNING:Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x10601d4d0>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/151bdcb0c94c6ee5d408d0a769cff7cc
+2024-06-21 22:35:12,923:INFO:====== WebDriver manager ======
+2024-06-21 22:35:13,022:INFO:Get LATEST chromedriver version for google-chrome
+2024-06-21 22:35:13,063:INFO:Get LATEST chromedriver version for google-chrome
+2024-06-21 22:35:13,096:INFO:Driver [/Users/juandavidduquea/.wdm/drivers/chromedriver/mac64/118.0.5993.70/chromedriver-mac-arm64/chromedriver] found in cache
+2024-06-21 22:36:01,041:INFO:No orders found.
+2024-06-21 22:36:02,731:WARNING:Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x104191f90>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/89d0f1dee4a4e1206b8d6de012e5f189
+2024-06-21 22:36:02,732:WARNING:Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x104193690>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/89d0f1dee4a4e1206b8d6de012e5f189
+2024-06-21 22:36:02,733:WARNING:Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x104193dd0>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/89d0f1dee4a4e1206b8d6de012e5f189
+2024-06-21 22:42:40,148:INFO:====== WebDriver manager ======
+2024-06-21 22:42:40,227:INFO:Get LATEST chromedriver version for google-chrome
+2024-06-21 22:42:40,260:INFO:Get LATEST chromedriver version for google-chrome
+2024-06-21 22:42:40,294:INFO:Driver [/Users/juandavidduquea/.wdm/drivers/chromedriver/mac64/118.0.5993.70/chromedriver-mac-arm64/chromedriver] found in cache
+2024-06-21 22:43:14,287:WARNING:Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x103d30550>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/9db378511666e35b275c784a2b7c0dc5
+2024-06-21 22:43:14,288:WARNING:Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x103d333d0>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/9db378511666e35b275c784a2b7c0dc5
+2024-06-21 22:43:14,289:WARNING:Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x103d33c10>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/9db378511666e35b275c784a2b7c0dc5
+2024-06-21 22:44:29,283:INFO:====== WebDriver manager ======
+2024-06-21 22:44:29,365:INFO:Get LATEST chromedriver version for google-chrome
+2024-06-21 22:44:29,405:INFO:Get LATEST chromedriver version for google-chrome
+2024-06-21 22:44:29,430:INFO:Driver [/Users/juandavidduquea/.wdm/drivers/chromedriver/mac64/118.0.5993.70/chromedriver-mac-arm64/chromedriver] found in cache
+2024-06-21 22:45:31,858:WARNING:Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1067a41d0>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/cef606fd5d95c96c657f84f0ed679342
+2024-06-21 22:45:31,859:WARNING:Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1067a73d0>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/cef606fd5d95c96c657f84f0ed679342
+2024-06-21 22:45:31,861:WARNING:Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1067a7b50>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/cef606fd5d95c96c657f84f0ed679342
+2024-06-21 22:46:30,936:INFO:====== WebDriver manager ======
+2024-06-21 22:46:31,019:INFO:Get LATEST chromedriver version for google-chrome
+2024-06-21 22:46:31,059:INFO:Get LATEST chromedriver version for google-chrome
+2024-06-21 22:46:31,094:INFO:Driver [/Users/juandavidduquea/.wdm/drivers/chromedriver/mac64/118.0.5993.70/chromedriver-mac-arm64/chromedriver] found in cache
+2024-06-21 22:47:08,971:WARNING:Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1020bebd0>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/384f683d38777445a11d42c50d5d3a42
+2024-06-21 22:47:08,972:WARNING:Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1020bf490>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/384f683d38777445a11d42c50d5d3a42
+2024-06-21 22:47:08,973:WARNING:Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1020bfcd0>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/384f683d38777445a11d42c50d5d3a42
+2024-06-21 22:47:59,412:INFO:====== WebDriver manager ======
+2024-06-21 22:47:59,494:INFO:Get LATEST chromedriver version for google-chrome
+2024-06-21 22:47:59,534:INFO:Get LATEST chromedriver version for google-chrome
+2024-06-21 22:47:59,561:INFO:Driver [/Users/juandavidduquea/.wdm/drivers/chromedriver/mac64/118.0.5993.70/chromedriver-mac-arm64/chromedriver] found in cache
+2024-06-21 22:48:26,688:WARNING:Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x103e69810>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/2c3ef92f2d9d3d21577b2ec8f9be103b
+2024-06-21 22:48:26,688:WARNING:Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x103e6b390>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/2c3ef92f2d9d3d21577b2ec8f9be103b
+2024-06-21 22:48:26,689:WARNING:Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x103e6bbd0>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/2c3ef92f2d9d3d21577b2ec8f9be103b
+2024-06-21 22:50:11,419:INFO:====== WebDriver manager ======
+2024-06-21 22:50:11,508:INFO:Get LATEST chromedriver version for google-chrome
+2024-06-21 22:50:11,548:INFO:Get LATEST chromedriver version for google-chrome
+2024-06-21 22:50:11,572:INFO:Driver [/Users/juandavidduquea/.wdm/drivers/chromedriver/mac64/118.0.5993.70/chromedriver-mac-arm64/chromedriver] found in cache
+2024-06-21 22:54:04,542:INFO:====== WebDriver manager ======
+2024-06-21 22:54:04,624:INFO:Get LATEST chromedriver version for google-chrome
+2024-06-21 22:54:04,657:INFO:Get LATEST chromedriver version for google-chrome
+2024-06-21 22:54:04,694:INFO:Driver [/Users/juandavidduquea/.wdm/drivers/chromedriver/mac64/118.0.5993.70/chromedriver-mac-arm64/chromedriver] found in cache
+2024-06-21 22:57:53,538:INFO:====== WebDriver manager ======
+2024-06-21 22:57:53,620:INFO:Get LATEST chromedriver version for google-chrome
+2024-06-21 22:57:53,656:INFO:Get LATEST chromedriver version for google-chrome
+2024-06-21 22:57:53,693:INFO:Driver [/Users/juandavidduquea/.wdm/drivers/chromedriver/mac64/118.0.5993.70/chromedriver-mac-arm64/chromedriver] found in cache
+2024-06-21 23:01:22,733:INFO:====== WebDriver manager ======
+2024-06-21 23:01:22,853:INFO:Get LATEST chromedriver version for google-chrome
+2024-06-21 23:01:22,892:INFO:Get LATEST chromedriver version for google-chrome
+2024-06-21 23:01:22,916:INFO:Driver [/Users/juandavidduquea/.wdm/drivers/chromedriver/mac64/118.0.5993.70/chromedriver-mac-arm64/chromedriver] found in cache
+2024-06-21 23:01:52,232:INFO:Order captured: {'orden': '5579657', 'fecha_de_orden': '06/05/2024', 'total_de_orden': '$1,095,000.01', 'total_pv': 62.4, 'cicle': 809}
+2024-06-21 23:01:52,251:INFO:Order captured: {'orden': '5576630', 'fecha_de_orden': '06/02/2024', 'total_de_orden': '$3,990,000.00', 'total_pv': 500.0, 'cicle': 808}
+2024-06-21 23:01:52,269:INFO:Order captured: {'orden': '5537727', 'fecha_de_orden': '04/27/2024', 'total_de_orden': '$662,599.99', 'total_pv': 114.0, 'cicle': 803}
+2024-06-21 23:01:52,287:INFO:Order captured: {'orden': '5502009', 'fecha_de_orden': '03/22/2024', 'total_de_orden': '$120,000.00', 'total_pv': 0.0, 'cicle': 798}
+2024-06-21 23:01:52,305:INFO:Order captured: {'orden': '5495406', 'fecha_de_orden': '03/16/2024', 'total_de_orden': '$3,990,000.00', 'total_pv': 500.0, 'cicle': 797}
+2024-06-21 23:01:52,322:INFO:Order captured: {'orden': '5421068', 'fecha_de_orden': '03/10/2024', 'total_de_orden': '$351,200.00', 'total_pv': 60.0, 'cicle': 796}
+2024-06-21 23:01:52,340:INFO:Order captured: {'orden': '5462699', 'fecha_de_orden': '02/16/2024', 'total_de_orden': '$231,500.00', 'total_pv': 41.0, 'cicle': 793}
+2024-06-21 23:01:52,356:INFO:Order captured: {'orden': '5437039', 'fecha_de_orden': '01/27/2024', 'total_de_orden': '$387,100.00', 'total_pv': 66.0, 'cicle': 790}
+2024-06-21 23:01:52,374:INFO:Order captured: {'orden': '5415013', 'fecha_de_orden': '01/07/2024', 'total_de_orden': '$271,400.00', 'total_pv': 47.0, 'cicle': 787}
+2024-06-21 23:01:52,391:INFO:Order captured: {'orden': '5395088', 'fecha_de_orden': '12/16/2023', 'total_de_orden': '$367,200.00', 'total_pv': 64.0, 'cicle': 784}
+2024-06-21 23:01:53,933:WARNING:Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1022031d0>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/fd99b98aac13d73a8bab0619f384adaa
+2024-06-21 23:01:53,934:WARNING:Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x102203b50>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/fd99b98aac13d73a8bab0619f384adaa
+2024-06-21 23:01:53,934:WARNING:Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1020aa110>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/fd99b98aac13d73a8bab0619f384adaa
+2024-06-21 23:03:02,381:INFO:====== WebDriver manager ======
+2024-06-21 23:03:02,460:INFO:Get LATEST chromedriver version for google-chrome
+2024-06-21 23:03:02,490:INFO:Get LATEST chromedriver version for google-chrome
+2024-06-21 23:03:02,517:INFO:Driver [/Users/juandavidduquea/.wdm/drivers/chromedriver/mac64/118.0.5993.70/chromedriver-mac-arm64/chromedriver] found in cache
+2024-06-21 23:03:35,018:INFO:Order captured: {'orden': '5579657', 'fecha_de_orden': '06/05/2024', 'total_de_orden': '$1,095,000.01', 'total_pv': 62.4, 'cicle': 809}
+2024-06-21 23:03:35,035:INFO:Order captured: {'orden': '5576630', 'fecha_de_orden': '06/02/2024', 'total_de_orden': '$3,990,000.00', 'total_pv': 500.0, 'cicle': 808}
+2024-06-21 23:03:35,052:INFO:Order captured: {'orden': '5537727', 'fecha_de_orden': '04/27/2024', 'total_de_orden': '$662,599.99', 'total_pv': 114.0, 'cicle': 803}
+2024-06-21 23:03:35,070:INFO:Order captured: {'orden': '5502009', 'fecha_de_orden': '03/22/2024', 'total_de_orden': '$120,000.00', 'total_pv': 0.0, 'cicle': 798}
+2024-06-21 23:03:35,088:INFO:Order captured: {'orden': '5495406', 'fecha_de_orden': '03/16/2024', 'total_de_orden': '$3,990,000.00', 'total_pv': 500.0, 'cicle': 797}
+2024-06-21 23:03:35,105:INFO:Order captured: {'orden': '5421068', 'fecha_de_orden': '03/10/2024', 'total_de_orden': '$351,200.00', 'total_pv': 60.0, 'cicle': 796}
+2024-06-21 23:03:35,122:INFO:Order captured: {'orden': '5462699', 'fecha_de_orden': '02/16/2024', 'total_de_orden': '$231,500.00', 'total_pv': 41.0, 'cicle': 793}
+2024-06-21 23:03:35,140:INFO:Order captured: {'orden': '5437039', 'fecha_de_orden': '01/27/2024', 'total_de_orden': '$387,100.00', 'total_pv': 66.0, 'cicle': 790}
+2024-06-21 23:03:35,157:INFO:Order captured: {'orden': '5415013', 'fecha_de_orden': '01/07/2024', 'total_de_orden': '$271,400.00', 'total_pv': 47.0, 'cicle': 787}
+2024-06-21 23:03:35,175:INFO:Order captured: {'orden': '5395088', 'fecha_de_orden': '12/16/2023', 'total_de_orden': '$367,200.00', 'total_pv': 64.0, 'cicle': 784}
+2024-06-21 23:03:36,738:WARNING:Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x10227b810>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/a85399257a95a365fd7883a7925babd7
+2024-06-21 23:03:36,739:WARNING:Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x10227a1d0>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/a85399257a95a365fd7883a7925babd7
+2024-06-21 23:03:36,739:WARNING:Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x102122dd0>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/a85399257a95a365fd7883a7925babd7
+2024-06-21 23:04:29,130:INFO:====== WebDriver manager ======
+2024-06-21 23:04:29,213:INFO:Get LATEST chromedriver version for google-chrome
+2024-06-21 23:04:29,243:INFO:Get LATEST chromedriver version for google-chrome
+2024-06-21 23:04:29,267:INFO:Driver [/Users/juandavidduquea/.wdm/drivers/chromedriver/mac64/118.0.5993.70/chromedriver-mac-arm64/chromedriver] found in cache
+2024-06-21 23:04:48,163:WARNING:Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x101e5e910>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/2e5bc76e959f4fb62bdfea74896aeb16
+2024-06-21 23:04:48,164:WARNING:Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x101e5f6d0>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/2e5bc76e959f4fb62bdfea74896aeb16
+2024-06-21 23:04:48,164:WARNING:Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x101e5fd90>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/2e5bc76e959f4fb62bdfea74896aeb16
+2024-06-21 23:05:28,498:INFO:====== WebDriver manager ======
+2024-06-21 23:05:28,580:INFO:Get LATEST chromedriver version for google-chrome
+2024-06-21 23:05:28,618:INFO:Get LATEST chromedriver version for google-chrome
+2024-06-21 23:05:28,652:INFO:Driver [/Users/juandavidduquea/.wdm/drivers/chromedriver/mac64/118.0.5993.70/chromedriver-mac-arm64/chromedriver] found in cache
+2024-06-21 23:07:06,137:INFO:Order captured: {'orden': '5579657', 'fecha_de_orden': '06/05/2024', 'total_de_orden': '$1,095,000.01', 'total_pv': 62.4, 'cicle': 809}
+2024-06-21 23:07:06,154:INFO:Order captured: {'orden': '5576630', 'fecha_de_orden': '06/02/2024', 'total_de_orden': '$3,990,000.00', 'total_pv': 500.0, 'cicle': 808}
+2024-06-21 23:07:06,171:INFO:Order captured: {'orden': '5537727', 'fecha_de_orden': '04/27/2024', 'total_de_orden': '$662,599.99', 'total_pv': 114.0, 'cicle': 803}
+2024-06-21 23:07:06,188:INFO:Order captured: {'orden': '5502009', 'fecha_de_orden': '03/22/2024', 'total_de_orden': '$120,000.00', 'total_pv': 0.0, 'cicle': 798}
+2024-06-21 23:07:06,205:INFO:Order captured: {'orden': '5495406', 'fecha_de_orden': '03/16/2024', 'total_de_orden': '$3,990,000.00', 'total_pv': 500.0, 'cicle': 797}
+2024-06-21 23:07:06,222:INFO:Order captured: {'orden': '5421068', 'fecha_de_orden': '03/10/2024', 'total_de_orden': '$351,200.00', 'total_pv': 60.0, 'cicle': 796}
+2024-06-21 23:07:06,239:INFO:Order captured: {'orden': '5462699', 'fecha_de_orden': '02/16/2024', 'total_de_orden': '$231,500.00', 'total_pv': 41.0, 'cicle': 793}
+2024-06-21 23:07:06,255:INFO:Order captured: {'orden': '5437039', 'fecha_de_orden': '01/27/2024', 'total_de_orden': '$387,100.00', 'total_pv': 66.0, 'cicle': 790}
+2024-06-21 23:07:06,272:INFO:Order captured: {'orden': '5415013', 'fecha_de_orden': '01/07/2024', 'total_de_orden': '$271,400.00', 'total_pv': 47.0, 'cicle': 787}
+2024-06-21 23:07:06,289:INFO:Order captured: {'orden': '5395088', 'fecha_de_orden': '12/16/2023', 'total_de_orden': '$367,200.00', 'total_pv': 64.0, 'cicle': 784}
+2024-06-21 23:07:06,316:INFO:Order captured: {'orden': '5579657', 'fecha_de_orden': '06/05/2024', 'total_de_orden': '$1,095,000.01', 'total_pv': 62.4, 'cicle': 809}
+2024-06-21 23:07:06,334:INFO:Order captured: {'orden': '5576630', 'fecha_de_orden': '06/02/2024', 'total_de_orden': '$3,990,000.00', 'total_pv': 500.0, 'cicle': 808}
+2024-06-21 23:07:06,351:INFO:Order captured: {'orden': '5537727', 'fecha_de_orden': '04/27/2024', 'total_de_orden': '$662,599.99', 'total_pv': 114.0, 'cicle': 803}
+2024-06-21 23:07:06,369:INFO:Order captured: {'orden': '5502009', 'fecha_de_orden': '03/22/2024', 'total_de_orden': '$120,000.00', 'total_pv': 0.0, 'cicle': 798}
+2024-06-21 23:07:06,388:INFO:Order captured: {'orden': '5495406', 'fecha_de_orden': '03/16/2024', 'total_de_orden': '$3,990,000.00', 'total_pv': 500.0, 'cicle': 797}
+2024-06-21 23:07:06,405:INFO:Order captured: {'orden': '5421068', 'fecha_de_orden': '03/10/2024', 'total_de_orden': '$351,200.00', 'total_pv': 60.0, 'cicle': 796}
+2024-06-21 23:07:06,422:INFO:Order captured: {'orden': '5462699', 'fecha_de_orden': '02/16/2024', 'total_de_orden': '$231,500.00', 'total_pv': 41.0, 'cicle': 793}
+2024-06-21 23:07:06,439:INFO:Order captured: {'orden': '5437039', 'fecha_de_orden': '01/27/2024', 'total_de_orden': '$387,100.00', 'total_pv': 66.0, 'cicle': 790}
+2024-06-21 23:07:06,456:INFO:Order captured: {'orden': '5415013', 'fecha_de_orden': '01/07/2024', 'total_de_orden': '$271,400.00', 'total_pv': 47.0, 'cicle': 787}
+2024-06-21 23:07:06,473:INFO:Order captured: {'orden': '5395088', 'fecha_de_orden': '12/16/2023', 'total_de_orden': '$367,200.00', 'total_pv': 64.0, 'cicle': 784}
+2024-06-21 23:07:08,118:WARNING:Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x106622850>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/f270bb272960456ab3e133d25eef5d30
+2024-06-21 23:07:08,119:WARNING:Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x106623dd0>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/f270bb272960456ab3e133d25eef5d30
+2024-06-21 23:07:08,119:WARNING:Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1064c6a50>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/f270bb272960456ab3e133d25eef5d30
+2024-06-21 23:09:44,315:INFO:====== WebDriver manager ======
+2024-06-21 23:09:44,435:INFO:Get LATEST chromedriver version for google-chrome
+2024-06-21 23:09:44,472:INFO:Get LATEST chromedriver version for google-chrome
+2024-06-21 23:09:44,495:INFO:Driver [/Users/juandavidduquea/.wdm/drivers/chromedriver/mac64/118.0.5993.70/chromedriver-mac-arm64/chromedriver] found in cache
+2024-06-21 23:10:16,213:INFO:Order captured: {'orden': '5579657', 'fecha_de_orden': '06/05/2024', 'total_de_orden': '$1,095,000.01', 'total_pv': 62.4, 'cicle': 809}
+2024-06-21 23:10:16,231:INFO:Order captured: {'orden': '5576630', 'fecha_de_orden': '06/02/2024', 'total_de_orden': '$3,990,000.00', 'total_pv': 500.0, 'cicle': 808}
+2024-06-21 23:10:16,248:INFO:Order captured: {'orden': '5537727', 'fecha_de_orden': '04/27/2024', 'total_de_orden': '$662,599.99', 'total_pv': 114.0, 'cicle': 803}
+2024-06-21 23:10:16,265:INFO:Order captured: {'orden': '5502009', 'fecha_de_orden': '03/22/2024', 'total_de_orden': '$120,000.00', 'total_pv': 0.0, 'cicle': 798}
+2024-06-21 23:10:16,282:INFO:Order captured: {'orden': '5495406', 'fecha_de_orden': '03/16/2024', 'total_de_orden': '$3,990,000.00', 'total_pv': 500.0, 'cicle': 797}
+2024-06-21 23:10:16,299:INFO:Order captured: {'orden': '5421068', 'fecha_de_orden': '03/10/2024', 'total_de_orden': '$351,200.00', 'total_pv': 60.0, 'cicle': 796}
+2024-06-21 23:10:16,316:INFO:Order captured: {'orden': '5462699', 'fecha_de_orden': '02/16/2024', 'total_de_orden': '$231,500.00', 'total_pv': 41.0, 'cicle': 793}
+2024-06-21 23:10:16,333:INFO:Order captured: {'orden': '5437039', 'fecha_de_orden': '01/27/2024', 'total_de_orden': '$387,100.00', 'total_pv': 66.0, 'cicle': 790}
+2024-06-21 23:10:16,350:INFO:Order captured: {'orden': '5415013', 'fecha_de_orden': '01/07/2024', 'total_de_orden': '$271,400.00', 'total_pv': 47.0, 'cicle': 787}
+2024-06-21 23:10:16,366:INFO:Order captured: {'orden': '5395088', 'fecha_de_orden': '12/16/2023', 'total_de_orden': '$367,200.00', 'total_pv': 64.0, 'cicle': 784}
+2024-06-21 23:10:16,394:INFO:Order captured: {'orden': '5579657', 'fecha_de_orden': '06/05/2024', 'total_de_orden': '$1,095,000.01', 'total_pv': 62.4, 'cicle': 809}
+2024-06-21 23:10:16,413:INFO:Order captured: {'orden': '5576630', 'fecha_de_orden': '06/02/2024', 'total_de_orden': '$3,990,000.00', 'total_pv': 500.0, 'cicle': 808}
+2024-06-21 23:10:16,430:INFO:Order captured: {'orden': '5537727', 'fecha_de_orden': '04/27/2024', 'total_de_orden': '$662,599.99', 'total_pv': 114.0, 'cicle': 803}
+2024-06-21 23:10:16,447:INFO:Order captured: {'orden': '5502009', 'fecha_de_orden': '03/22/2024', 'total_de_orden': '$120,000.00', 'total_pv': 0.0, 'cicle': 798}
+2024-06-21 23:10:16,464:INFO:Order captured: {'orden': '5495406', 'fecha_de_orden': '03/16/2024', 'total_de_orden': '$3,990,000.00', 'total_pv': 500.0, 'cicle': 797}
+2024-06-21 23:10:16,481:INFO:Order captured: {'orden': '5421068', 'fecha_de_orden': '03/10/2024', 'total_de_orden': '$351,200.00', 'total_pv': 60.0, 'cicle': 796}
+2024-06-21 23:10:16,498:INFO:Order captured: {'orden': '5462699', 'fecha_de_orden': '02/16/2024', 'total_de_orden': '$231,500.00', 'total_pv': 41.0, 'cicle': 793}
+2024-06-21 23:10:16,514:INFO:Order captured: {'orden': '5437039', 'fecha_de_orden': '01/27/2024', 'total_de_orden': '$387,100.00', 'total_pv': 66.0, 'cicle': 790}
+2024-06-21 23:10:16,531:INFO:Order captured: {'orden': '5415013', 'fecha_de_orden': '01/07/2024', 'total_de_orden': '$271,400.00', 'total_pv': 47.0, 'cicle': 787}
+2024-06-21 23:10:16,548:INFO:Order captured: {'orden': '5395088', 'fecha_de_orden': '12/16/2023', 'total_de_orden': '$367,200.00', 'total_pv': 64.0, 'cicle': 784}
+2024-06-21 23:10:18,105:WARNING:Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1063126d0>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/208629e9d8e4b4735308a6bc6e62c2cb
+2024-06-21 23:10:18,107:WARNING:Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1061ba1d0>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/208629e9d8e4b4735308a6bc6e62c2cb
+2024-06-21 23:10:18,108:WARNING:Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1061bac10>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/208629e9d8e4b4735308a6bc6e62c2cb
+2024-06-21 23:11:07,782:INFO:====== WebDriver manager ======
+2024-06-21 23:11:07,864:INFO:Get LATEST chromedriver version for google-chrome
+2024-06-21 23:11:08,903:INFO:Get LATEST chromedriver version for google-chrome
+2024-06-21 23:11:08,932:INFO:Driver [/Users/juandavidduquea/.wdm/drivers/chromedriver/mac64/118.0.5993.70/chromedriver-mac-arm64/chromedriver] found in cache
+2024-06-21 23:12:02,038:INFO:Order captured: {'orden': '5579657', 'fecha_de_orden': '06/05/2024', 'total_de_orden': '$1,095,000.01', 'total_pv': 62.4, 'cicle': 809}
+2024-06-21 23:12:02,055:INFO:Order captured: {'orden': '5576630', 'fecha_de_orden': '06/02/2024', 'total_de_orden': '$3,990,000.00', 'total_pv': 500.0, 'cicle': 808}
+2024-06-21 23:12:02,072:INFO:Order captured: {'orden': '5537727', 'fecha_de_orden': '04/27/2024', 'total_de_orden': '$662,599.99', 'total_pv': 114.0, 'cicle': 803}
+2024-06-21 23:12:02,089:INFO:Order captured: {'orden': '5502009', 'fecha_de_orden': '03/22/2024', 'total_de_orden': '$120,000.00', 'total_pv': 0.0, 'cicle': 798}
+2024-06-21 23:12:02,106:INFO:Order captured: {'orden': '5495406', 'fecha_de_orden': '03/16/2024', 'total_de_orden': '$3,990,000.00', 'total_pv': 500.0, 'cicle': 797}
+2024-06-21 23:12:02,125:INFO:Order captured: {'orden': '5421068', 'fecha_de_orden': '03/10/2024', 'total_de_orden': '$351,200.00', 'total_pv': 60.0, 'cicle': 796}
+2024-06-21 23:12:02,142:INFO:Order captured: {'orden': '5462699', 'fecha_de_orden': '02/16/2024', 'total_de_orden': '$231,500.00', 'total_pv': 41.0, 'cicle': 793}
+2024-06-21 23:12:02,159:INFO:Order captured: {'orden': '5437039', 'fecha_de_orden': '01/27/2024', 'total_de_orden': '$387,100.00', 'total_pv': 66.0, 'cicle': 790}
+2024-06-21 23:12:02,176:INFO:Order captured: {'orden': '5415013', 'fecha_de_orden': '01/07/2024', 'total_de_orden': '$271,400.00', 'total_pv': 47.0, 'cicle': 787}
+2024-06-21 23:12:02,192:INFO:Order captured: {'orden': '5395088', 'fecha_de_orden': '12/16/2023', 'total_de_orden': '$367,200.00', 'total_pv': 64.0, 'cicle': 784}
+2024-06-21 23:12:02,219:INFO:Order captured: {'orden': '5579657', 'fecha_de_orden': '06/05/2024', 'total_de_orden': '$1,095,000.01', 'total_pv': 62.4, 'cicle': 809}
+2024-06-21 23:12:02,236:INFO:Order captured: {'orden': '5576630', 'fecha_de_orden': '06/02/2024', 'total_de_orden': '$3,990,000.00', 'total_pv': 500.0, 'cicle': 808}
+2024-06-21 23:12:02,253:INFO:Order captured: {'orden': '5537727', 'fecha_de_orden': '04/27/2024', 'total_de_orden': '$662,599.99', 'total_pv': 114.0, 'cicle': 803}
+2024-06-21 23:12:02,269:INFO:Order captured: {'orden': '5502009', 'fecha_de_orden': '03/22/2024', 'total_de_orden': '$120,000.00', 'total_pv': 0.0, 'cicle': 798}
+2024-06-21 23:12:02,287:INFO:Order captured: {'orden': '5495406', 'fecha_de_orden': '03/16/2024', 'total_de_orden': '$3,990,000.00', 'total_pv': 500.0, 'cicle': 797}
+2024-06-21 23:12:02,303:INFO:Order captured: {'orden': '5421068', 'fecha_de_orden': '03/10/2024', 'total_de_orden': '$351,200.00', 'total_pv': 60.0, 'cicle': 796}
+2024-06-21 23:12:02,320:INFO:Order captured: {'orden': '5462699', 'fecha_de_orden': '02/16/2024', 'total_de_orden': '$231,500.00', 'total_pv': 41.0, 'cicle': 793}
+2024-06-21 23:12:02,337:INFO:Order captured: {'orden': '5437039', 'fecha_de_orden': '01/27/2024', 'total_de_orden': '$387,100.00', 'total_pv': 66.0, 'cicle': 790}
+2024-06-21 23:12:02,353:INFO:Order captured: {'orden': '5415013', 'fecha_de_orden': '01/07/2024', 'total_de_orden': '$271,400.00', 'total_pv': 47.0, 'cicle': 787}
+2024-06-21 23:12:02,370:INFO:Order captured: {'orden': '5395088', 'fecha_de_orden': '12/16/2023', 'total_de_orden': '$367,200.00', 'total_pv': 64.0, 'cicle': 784}
+2024-06-21 23:12:03,907:WARNING:Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1042167d0>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/c9ed12e3635ba42dab69d597a5bc4b8f
+2024-06-21 23:12:03,908:WARNING:Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1040bde50>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/c9ed12e3635ba42dab69d597a5bc4b8f
+2024-06-21 23:12:03,909:WARNING:Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1040beb10>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/c9ed12e3635ba42dab69d597a5bc4b8f
+2024-06-21 23:12:38,394:INFO:====== WebDriver manager ======
+2024-06-21 23:12:38,476:INFO:Get LATEST chromedriver version for google-chrome
+2024-06-21 23:12:38,503:INFO:Get LATEST chromedriver version for google-chrome
+2024-06-21 23:12:38,538:INFO:Driver [/Users/juandavidduquea/.wdm/drivers/chromedriver/mac64/118.0.5993.70/chromedriver-mac-arm64/chromedriver] found in cache
+2024-06-21 23:13:15,403:INFO:Order captured: {'orden': '5579657', 'fecha_de_orden': '06/05/2024', 'total_de_orden': '$1,095,000.01', 'total_pv': 62.4, 'cicle': 809}
+2024-06-21 23:13:15,420:INFO:Order captured: {'orden': '5576630', 'fecha_de_orden': '06/02/2024', 'total_de_orden': '$3,990,000.00', 'total_pv': 500.0, 'cicle': 808}
+2024-06-21 23:13:15,437:INFO:Order captured: {'orden': '5537727', 'fecha_de_orden': '04/27/2024', 'total_de_orden': '$662,599.99', 'total_pv': 114.0, 'cicle': 803}
+2024-06-21 23:13:15,454:INFO:Order captured: {'orden': '5502009', 'fecha_de_orden': '03/22/2024', 'total_de_orden': '$120,000.00', 'total_pv': 0.0, 'cicle': 798}
+2024-06-21 23:13:15,470:INFO:Order captured: {'orden': '5495406', 'fecha_de_orden': '03/16/2024', 'total_de_orden': '$3,990,000.00', 'total_pv': 500.0, 'cicle': 797}
+2024-06-21 23:13:15,487:INFO:Order captured: {'orden': '5421068', 'fecha_de_orden': '03/10/2024', 'total_de_orden': '$351,200.00', 'total_pv': 60.0, 'cicle': 796}
+2024-06-21 23:13:15,504:INFO:Order captured: {'orden': '5462699', 'fecha_de_orden': '02/16/2024', 'total_de_orden': '$231,500.00', 'total_pv': 41.0, 'cicle': 793}
+2024-06-21 23:13:15,521:INFO:Order captured: {'orden': '5437039', 'fecha_de_orden': '01/27/2024', 'total_de_orden': '$387,100.00', 'total_pv': 66.0, 'cicle': 790}
+2024-06-21 23:13:15,538:INFO:Order captured: {'orden': '5415013', 'fecha_de_orden': '01/07/2024', 'total_de_orden': '$271,400.00', 'total_pv': 47.0, 'cicle': 787}
+2024-06-21 23:13:15,554:INFO:Order captured: {'orden': '5395088', 'fecha_de_orden': '12/16/2023', 'total_de_orden': '$367,200.00', 'total_pv': 64.0, 'cicle': 784}
+2024-06-21 23:13:15,582:INFO:Order captured: {'orden': '5579657', 'fecha_de_orden': '06/05/2024', 'total_de_orden': '$1,095,000.01', 'total_pv': 62.4, 'cicle': 809}
+2024-06-21 23:13:15,599:INFO:Order captured: {'orden': '5576630', 'fecha_de_orden': '06/02/2024', 'total_de_orden': '$3,990,000.00', 'total_pv': 500.0, 'cicle': 808}
+2024-06-21 23:13:15,615:INFO:Order captured: {'orden': '5537727', 'fecha_de_orden': '04/27/2024', 'total_de_orden': '$662,599.99', 'total_pv': 114.0, 'cicle': 803}
+2024-06-21 23:13:15,632:INFO:Order captured: {'orden': '5502009', 'fecha_de_orden': '03/22/2024', 'total_de_orden': '$120,000.00', 'total_pv': 0.0, 'cicle': 798}
+2024-06-21 23:13:15,649:INFO:Order captured: {'orden': '5495406', 'fecha_de_orden': '03/16/2024', 'total_de_orden': '$3,990,000.00', 'total_pv': 500.0, 'cicle': 797}
+2024-06-21 23:13:15,666:INFO:Order captured: {'orden': '5421068', 'fecha_de_orden': '03/10/2024', 'total_de_orden': '$351,200.00', 'total_pv': 60.0, 'cicle': 796}
+2024-06-21 23:13:15,683:INFO:Order captured: {'orden': '5462699', 'fecha_de_orden': '02/16/2024', 'total_de_orden': '$231,500.00', 'total_pv': 41.0, 'cicle': 793}
+2024-06-21 23:13:15,699:INFO:Order captured: {'orden': '5437039', 'fecha_de_orden': '01/27/2024', 'total_de_orden': '$387,100.00', 'total_pv': 66.0, 'cicle': 790}
+2024-06-21 23:13:15,716:INFO:Order captured: {'orden': '5415013', 'fecha_de_orden': '01/07/2024', 'total_de_orden': '$271,400.00', 'total_pv': 47.0, 'cicle': 787}
+2024-06-21 23:13:15,733:INFO:Order captured: {'orden': '5395088', 'fecha_de_orden': '12/16/2023', 'total_de_orden': '$367,200.00', 'total_pv': 64.0, 'cicle': 784}
+2024-06-21 23:13:17,303:WARNING:Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1061dbe50>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/bf596683b51042162b066bf32305ab72
+2024-06-21 23:13:17,304:WARNING:Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1060778d0>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/bf596683b51042162b066bf32305ab72
+2024-06-21 23:13:17,307:WARNING:Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1061f4050>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/bf596683b51042162b066bf32305ab72
+2024-06-21 23:24:58,465:INFO:====== WebDriver manager ======
+2024-06-21 23:24:58,589:INFO:Get LATEST chromedriver version for google-chrome
+2024-06-21 23:24:58,628:INFO:Get LATEST chromedriver version for google-chrome
+2024-06-21 23:24:58,674:INFO:Driver [/Users/juandavidduquea/.wdm/drivers/chromedriver/mac64/118.0.5993.70/chromedriver-mac-arm64/chromedriver] found in cache
+2024-06-21 23:25:29,046:INFO:Order captured: {'orden': '5579657', 'fecha_de_orden': '06/05/2024', 'total_de_orden': '$1,095,000.01', 'total_pv': 62.4, 'cicle': 809}
+2024-06-21 23:25:29,062:INFO:Order captured: {'orden': '5576630', 'fecha_de_orden': '06/02/2024', 'total_de_orden': '$3,990,000.00', 'total_pv': 500.0, 'cicle': 808}
+2024-06-21 23:25:29,079:INFO:Order captured: {'orden': '5537727', 'fecha_de_orden': '04/27/2024', 'total_de_orden': '$662,599.99', 'total_pv': 114.0, 'cicle': 803}
+2024-06-21 23:25:29,096:INFO:Order captured: {'orden': '5502009', 'fecha_de_orden': '03/22/2024', 'total_de_orden': '$120,000.00', 'total_pv': 0.0, 'cicle': 798}
+2024-06-21 23:25:29,113:INFO:Order captured: {'orden': '5495406', 'fecha_de_orden': '03/16/2024', 'total_de_orden': '$3,990,000.00', 'total_pv': 500.0, 'cicle': 797}
+2024-06-21 23:25:29,130:INFO:Order captured: {'orden': '5421068', 'fecha_de_orden': '03/10/2024', 'total_de_orden': '$351,200.00', 'total_pv': 60.0, 'cicle': 796}
+2024-06-21 23:25:29,148:INFO:Order captured: {'orden': '5462699', 'fecha_de_orden': '02/16/2024', 'total_de_orden': '$231,500.00', 'total_pv': 41.0, 'cicle': 793}
+2024-06-21 23:25:29,164:INFO:Order captured: {'orden': '5437039', 'fecha_de_orden': '01/27/2024', 'total_de_orden': '$387,100.00', 'total_pv': 66.0, 'cicle': 790}
+2024-06-21 23:25:29,180:INFO:Order captured: {'orden': '5415013', 'fecha_de_orden': '01/07/2024', 'total_de_orden': '$271,400.00', 'total_pv': 47.0, 'cicle': 787}
+2024-06-21 23:25:29,196:INFO:Order captured: {'orden': '5395088', 'fecha_de_orden': '12/16/2023', 'total_de_orden': '$367,200.00', 'total_pv': 64.0, 'cicle': 784}
+2024-06-21 23:25:29,223:INFO:Order captured: {'orden': '5579657', 'fecha_de_orden': '06/05/2024', 'total_de_orden': '$1,095,000.01', 'total_pv': 62.4, 'cicle': 809}
+2024-06-21 23:25:29,240:INFO:Order captured: {'orden': '5576630', 'fecha_de_orden': '06/02/2024', 'total_de_orden': '$3,990,000.00', 'total_pv': 500.0, 'cicle': 808}
+2024-06-21 23:25:29,257:INFO:Order captured: {'orden': '5537727', 'fecha_de_orden': '04/27/2024', 'total_de_orden': '$662,599.99', 'total_pv': 114.0, 'cicle': 803}
+2024-06-21 23:25:29,274:INFO:Order captured: {'orden': '5502009', 'fecha_de_orden': '03/22/2024', 'total_de_orden': '$120,000.00', 'total_pv': 0.0, 'cicle': 798}
+2024-06-21 23:25:29,290:INFO:Order captured: {'orden': '5495406', 'fecha_de_orden': '03/16/2024', 'total_de_orden': '$3,990,000.00', 'total_pv': 500.0, 'cicle': 797}
+2024-06-21 23:25:29,307:INFO:Order captured: {'orden': '5421068', 'fecha_de_orden': '03/10/2024', 'total_de_orden': '$351,200.00', 'total_pv': 60.0, 'cicle': 796}
+2024-06-21 23:25:29,324:INFO:Order captured: {'orden': '5462699', 'fecha_de_orden': '02/16/2024', 'total_de_orden': '$231,500.00', 'total_pv': 41.0, 'cicle': 793}
+2024-06-21 23:25:29,341:INFO:Order captured: {'orden': '5437039', 'fecha_de_orden': '01/27/2024', 'total_de_orden': '$387,100.00', 'total_pv': 66.0, 'cicle': 790}
+2024-06-21 23:25:29,361:INFO:Order captured: {'orden': '5415013', 'fecha_de_orden': '01/07/2024', 'total_de_orden': '$271,400.00', 'total_pv': 47.0, 'cicle': 787}
+2024-06-21 23:25:29,377:INFO:Order captured: {'orden': '5395088', 'fecha_de_orden': '12/16/2023', 'total_de_orden': '$367,200.00', 'total_pv': 64.0, 'cicle': 784}
+2024-06-21 23:25:45,006:INFO:====== WebDriver manager ======
+2024-06-21 23:25:45,087:INFO:Get LATEST chromedriver version for google-chrome
+2024-06-21 23:25:45,117:INFO:Get LATEST chromedriver version for google-chrome
+2024-06-21 23:25:45,139:INFO:Driver [/Users/juandavidduquea/.wdm/drivers/chromedriver/mac64/118.0.5993.70/chromedriver-mac-arm64/chromedriver] found in cache
+2024-06-21 23:26:43,789:INFO:Order captured: {'orden': '5579657', 'fecha_de_orden': '06/05/2024', 'total_de_orden': '$1,095,000.01', 'total_pv': 62.4, 'cicle': 809}
+2024-06-21 23:26:43,806:INFO:Order captured: {'orden': '5576630', 'fecha_de_orden': '06/02/2024', 'total_de_orden': '$3,990,000.00', 'total_pv': 500.0, 'cicle': 808}
+2024-06-21 23:26:43,823:INFO:Order captured: {'orden': '5537727', 'fecha_de_orden': '04/27/2024', 'total_de_orden': '$662,599.99', 'total_pv': 114.0, 'cicle': 803}
+2024-06-21 23:26:43,840:INFO:Order captured: {'orden': '5502009', 'fecha_de_orden': '03/22/2024', 'total_de_orden': '$120,000.00', 'total_pv': 0.0, 'cicle': 798}
+2024-06-21 23:26:43,860:INFO:Order captured: {'orden': '5495406', 'fecha_de_orden': '03/16/2024', 'total_de_orden': '$3,990,000.00', 'total_pv': 500.0, 'cicle': 797}
+2024-06-21 23:26:43,877:INFO:Order captured: {'orden': '5421068', 'fecha_de_orden': '03/10/2024', 'total_de_orden': '$351,200.00', 'total_pv': 60.0, 'cicle': 796}
+2024-06-21 23:26:43,894:INFO:Order captured: {'orden': '5462699', 'fecha_de_orden': '02/16/2024', 'total_de_orden': '$231,500.00', 'total_pv': 41.0, 'cicle': 793}
+2024-06-21 23:26:43,911:INFO:Order captured: {'orden': '5437039', 'fecha_de_orden': '01/27/2024', 'total_de_orden': '$387,100.00', 'total_pv': 66.0, 'cicle': 790}
+2024-06-21 23:26:43,927:INFO:Order captured: {'orden': '5415013', 'fecha_de_orden': '01/07/2024', 'total_de_orden': '$271,400.00', 'total_pv': 47.0, 'cicle': 787}
+2024-06-21 23:26:43,944:INFO:Order captured: {'orden': '5395088', 'fecha_de_orden': '12/16/2023', 'total_de_orden': '$367,200.00', 'total_pv': 64.0, 'cicle': 784}
+2024-06-21 23:26:43,971:INFO:Order captured: {'orden': '5579657', 'fecha_de_orden': '06/05/2024', 'total_de_orden': '$1,095,000.01', 'total_pv': 62.4, 'cicle': 809}
+2024-06-21 23:26:43,988:INFO:Order captured: {'orden': '5576630', 'fecha_de_orden': '06/02/2024', 'total_de_orden': '$3,990,000.00', 'total_pv': 500.0, 'cicle': 808}
+2024-06-21 23:26:44,005:INFO:Order captured: {'orden': '5537727', 'fecha_de_orden': '04/27/2024', 'total_de_orden': '$662,599.99', 'total_pv': 114.0, 'cicle': 803}
+2024-06-21 23:26:44,022:INFO:Order captured: {'orden': '5502009', 'fecha_de_orden': '03/22/2024', 'total_de_orden': '$120,000.00', 'total_pv': 0.0, 'cicle': 798}
+2024-06-21 23:26:44,039:INFO:Order captured: {'orden': '5495406', 'fecha_de_orden': '03/16/2024', 'total_de_orden': '$3,990,000.00', 'total_pv': 500.0, 'cicle': 797}
+2024-06-21 23:26:44,056:INFO:Order captured: {'orden': '5421068', 'fecha_de_orden': '03/10/2024', 'total_de_orden': '$351,200.00', 'total_pv': 60.0, 'cicle': 796}
+2024-06-21 23:26:44,074:INFO:Order captured: {'orden': '5462699', 'fecha_de_orden': '02/16/2024', 'total_de_orden': '$231,500.00', 'total_pv': 41.0, 'cicle': 793}
+2024-06-21 23:26:44,090:INFO:Order captured: {'orden': '5437039', 'fecha_de_orden': '01/27/2024', 'total_de_orden': '$387,100.00', 'total_pv': 66.0, 'cicle': 790}
+2024-06-21 23:26:44,107:INFO:Order captured: {'orden': '5415013', 'fecha_de_orden': '01/07/2024', 'total_de_orden': '$271,400.00', 'total_pv': 47.0, 'cicle': 787}
+2024-06-21 23:26:44,124:INFO:Order captured: {'orden': '5395088', 'fecha_de_orden': '12/16/2023', 'total_de_orden': '$367,200.00', 'total_pv': 64.0, 'cicle': 784}
+2024-06-21 23:26:45,733:WARNING:Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x101dd6850>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/f006d4e9cc56797cc01a2f47e4447c4c
+2024-06-21 23:26:45,734:WARNING:Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x101c75cd0>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/f006d4e9cc56797cc01a2f47e4447c4c
+2024-06-21 23:26:45,735:WARNING:Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x101c76950>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/f006d4e9cc56797cc01a2f47e4447c4c
+2024-06-21 23:32:21,439:INFO:====== WebDriver manager ======
+2024-06-21 23:32:21,521:INFO:Get LATEST chromedriver version for google-chrome
+2024-06-21 23:32:21,568:INFO:Get LATEST chromedriver version for google-chrome
+2024-06-21 23:32:21,590:INFO:Driver [/Users/juandavidduquea/.wdm/drivers/chromedriver/mac64/118.0.5993.70/chromedriver-mac-arm64/chromedriver] found in cache
+2024-06-21 23:32:42,367:INFO:Order captured: {'orden': '5579657', 'fecha_de_orden': '06/05/2024', 'total_de_orden': '$1,095,000.01', 'total_pv': 62.4, 'cicle': 809}
+2024-06-21 23:32:42,390:INFO:Order captured: {'orden': '5576630', 'fecha_de_orden': '06/02/2024', 'total_de_orden': '$3,990,000.00', 'total_pv': 500.0, 'cicle': 808}
+2024-06-21 23:32:42,407:INFO:Order captured: {'orden': '5537727', 'fecha_de_orden': '04/27/2024', 'total_de_orden': '$662,599.99', 'total_pv': 114.0, 'cicle': 803}
+2024-06-21 23:32:42,424:INFO:Order captured: {'orden': '5502009', 'fecha_de_orden': '03/22/2024', 'total_de_orden': '$120,000.00', 'total_pv': 0.0, 'cicle': 798}
+2024-06-21 23:32:42,441:INFO:Order captured: {'orden': '5495406', 'fecha_de_orden': '03/16/2024', 'total_de_orden': '$3,990,000.00', 'total_pv': 500.0, 'cicle': 797}
+2024-06-21 23:32:42,458:INFO:Order captured: {'orden': '5421068', 'fecha_de_orden': '03/10/2024', 'total_de_orden': '$351,200.00', 'total_pv': 60.0, 'cicle': 796}
+2024-06-21 23:32:42,475:INFO:Order captured: {'orden': '5462699', 'fecha_de_orden': '02/16/2024', 'total_de_orden': '$231,500.00', 'total_pv': 41.0, 'cicle': 793}
+2024-06-21 23:32:42,492:INFO:Order captured: {'orden': '5437039', 'fecha_de_orden': '01/27/2024', 'total_de_orden': '$387,100.00', 'total_pv': 66.0, 'cicle': 790}
+2024-06-21 23:32:42,508:INFO:Order captured: {'orden': '5415013', 'fecha_de_orden': '01/07/2024', 'total_de_orden': '$271,400.00', 'total_pv': 47.0, 'cicle': 787}
+2024-06-21 23:32:42,524:INFO:Order captured: {'orden': '5395088', 'fecha_de_orden': '12/16/2023', 'total_de_orden': '$367,200.00', 'total_pv': 64.0, 'cicle': 784}
+2024-06-21 23:32:42,552:INFO:Order captured: {'orden': '5579657', 'fecha_de_orden': '06/05/2024', 'total_de_orden': '$1,095,000.01', 'total_pv': 62.4, 'cicle': 809}
+2024-06-21 23:32:42,569:INFO:Order captured: {'orden': '5576630', 'fecha_de_orden': '06/02/2024', 'total_de_orden': '$3,990,000.00', 'total_pv': 500.0, 'cicle': 808}
+2024-06-21 23:32:42,585:INFO:Order captured: {'orden': '5537727', 'fecha_de_orden': '04/27/2024', 'total_de_orden': '$662,599.99', 'total_pv': 114.0, 'cicle': 803}
+2024-06-21 23:32:42,602:INFO:Order captured: {'orden': '5502009', 'fecha_de_orden': '03/22/2024', 'total_de_orden': '$120,000.00', 'total_pv': 0.0, 'cicle': 798}
+2024-06-21 23:32:42,619:INFO:Order captured: {'orden': '5495406', 'fecha_de_orden': '03/16/2024', 'total_de_orden': '$3,990,000.00', 'total_pv': 500.0, 'cicle': 797}
+2024-06-21 23:32:42,635:INFO:Order captured: {'orden': '5421068', 'fecha_de_orden': '03/10/2024', 'total_de_orden': '$351,200.00', 'total_pv': 60.0, 'cicle': 796}
+2024-06-21 23:32:42,652:INFO:Order captured: {'orden': '5462699', 'fecha_de_orden': '02/16/2024', 'total_de_orden': '$231,500.00', 'total_pv': 41.0, 'cicle': 793}
+2024-06-21 23:32:42,668:INFO:Order captured: {'orden': '5437039', 'fecha_de_orden': '01/27/2024', 'total_de_orden': '$387,100.00', 'total_pv': 66.0, 'cicle': 790}
+2024-06-21 23:32:42,685:INFO:Order captured: {'orden': '5415013', 'fecha_de_orden': '01/07/2024', 'total_de_orden': '$271,400.00', 'total_pv': 47.0, 'cicle': 787}
+2024-06-21 23:32:42,702:INFO:Order captured: {'orden': '5395088', 'fecha_de_orden': '12/16/2023', 'total_de_orden': '$367,200.00', 'total_pv': 64.0, 'cicle': 784}
+2024-06-21 23:32:44,294:WARNING:Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x105a57890>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/bed0044850b24b43371326eae4e5d88c
+2024-06-21 23:32:44,294:WARNING:Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1058f5e10>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/bed0044850b24b43371326eae4e5d88c
+2024-06-21 23:32:44,295:WARNING:Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1058f66d0>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/bed0044850b24b43371326eae4e5d88c
+2024-06-21 23:38:52,112:INFO:====== WebDriver manager ======
+2024-06-21 23:38:52,196:INFO:Get LATEST chromedriver version for google-chrome
+2024-06-21 23:38:52,236:INFO:Get LATEST chromedriver version for google-chrome
+2024-06-21 23:38:52,259:INFO:Driver [/Users/juandavidduquea/.wdm/drivers/chromedriver/mac64/118.0.5993.70/chromedriver-mac-arm64/chromedriver] found in cache
+2024-06-21 23:39:28,866:INFO:Order captured: {'orden': '5579657', 'fecha_de_orden': '06/05/2024', 'total_de_orden': '$1,095,000.01', 'total_pv': 62.4, 'cicle': 809}
+2024-06-21 23:39:28,884:INFO:Order captured: {'orden': '5576630', 'fecha_de_orden': '06/02/2024', 'total_de_orden': '$3,990,000.00', 'total_pv': 500.0, 'cicle': 808}
+2024-06-21 23:39:28,901:INFO:Order captured: {'orden': '5537727', 'fecha_de_orden': '04/27/2024', 'total_de_orden': '$662,599.99', 'total_pv': 114.0, 'cicle': 803}
+2024-06-21 23:39:28,918:INFO:Order captured: {'orden': '5502009', 'fecha_de_orden': '03/22/2024', 'total_de_orden': '$120,000.00', 'total_pv': 0.0, 'cicle': 798}
+2024-06-21 23:39:28,935:INFO:Order captured: {'orden': '5495406', 'fecha_de_orden': '03/16/2024', 'total_de_orden': '$3,990,000.00', 'total_pv': 500.0, 'cicle': 797}
+2024-06-21 23:39:28,952:INFO:Order captured: {'orden': '5421068', 'fecha_de_orden': '03/10/2024', 'total_de_orden': '$351,200.00', 'total_pv': 60.0, 'cicle': 796}
+2024-06-21 23:39:28,969:INFO:Order captured: {'orden': '5462699', 'fecha_de_orden': '02/16/2024', 'total_de_orden': '$231,500.00', 'total_pv': 41.0, 'cicle': 793}
+2024-06-21 23:39:28,986:INFO:Order captured: {'orden': '5437039', 'fecha_de_orden': '01/27/2024', 'total_de_orden': '$387,100.00', 'total_pv': 66.0, 'cicle': 790}
+2024-06-21 23:39:29,002:INFO:Order captured: {'orden': '5415013', 'fecha_de_orden': '01/07/2024', 'total_de_orden': '$271,400.00', 'total_pv': 47.0, 'cicle': 787}
+2024-06-21 23:39:29,019:INFO:Order captured: {'orden': '5395088', 'fecha_de_orden': '12/16/2023', 'total_de_orden': '$367,200.00', 'total_pv': 64.0, 'cicle': 784}
+2024-06-21 23:39:29,046:INFO:Order captured: {'orden': '5579657', 'fecha_de_orden': '06/05/2024', 'total_de_orden': '$1,095,000.01', 'total_pv': 62.4, 'cicle': 809}
+2024-06-21 23:39:29,064:INFO:Order captured: {'orden': '5576630', 'fecha_de_orden': '06/02/2024', 'total_de_orden': '$3,990,000.00', 'total_pv': 500.0, 'cicle': 808}
+2024-06-21 23:39:29,080:INFO:Order captured: {'orden': '5537727', 'fecha_de_orden': '04/27/2024', 'total_de_orden': '$662,599.99', 'total_pv': 114.0, 'cicle': 803}
+2024-06-21 23:39:29,098:INFO:Order captured: {'orden': '5502009', 'fecha_de_orden': '03/22/2024', 'total_de_orden': '$120,000.00', 'total_pv': 0.0, 'cicle': 798}
+2024-06-21 23:39:29,114:INFO:Order captured: {'orden': '5495406', 'fecha_de_orden': '03/16/2024', 'total_de_orden': '$3,990,000.00', 'total_pv': 500.0, 'cicle': 797}
+2024-06-21 23:39:29,131:INFO:Order captured: {'orden': '5421068', 'fecha_de_orden': '03/10/2024', 'total_de_orden': '$351,200.00', 'total_pv': 60.0, 'cicle': 796}
+2024-06-21 23:39:29,148:INFO:Order captured: {'orden': '5462699', 'fecha_de_orden': '02/16/2024', 'total_de_orden': '$231,500.00', 'total_pv': 41.0, 'cicle': 793}
+2024-06-21 23:39:29,165:INFO:Order captured: {'orden': '5437039', 'fecha_de_orden': '01/27/2024', 'total_de_orden': '$387,100.00', 'total_pv': 66.0, 'cicle': 790}
+2024-06-21 23:39:29,182:INFO:Order captured: {'orden': '5415013', 'fecha_de_orden': '01/07/2024', 'total_de_orden': '$271,400.00', 'total_pv': 47.0, 'cicle': 787}
+2024-06-21 23:39:29,198:INFO:Order captured: {'orden': '5395088', 'fecha_de_orden': '12/16/2023', 'total_de_orden': '$367,200.00', 'total_pv': 64.0, 'cicle': 784}
+2024-06-21 23:39:30,763:WARNING:Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x106a57950>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/c152601454135ddde3d4280fa1396984
+2024-06-21 23:39:30,764:WARNING:Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1068344d0>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/c152601454135ddde3d4280fa1396984
+2024-06-21 23:39:30,765:WARNING:Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1068fac50>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/c152601454135ddde3d4280fa1396984
+2024-06-21 23:42:00,407:INFO:====== WebDriver manager ======
+2024-06-21 23:42:00,528:INFO:Get LATEST chromedriver version for google-chrome
+2024-06-21 23:42:00,558:INFO:Get LATEST chromedriver version for google-chrome
+2024-06-21 23:42:00,581:INFO:Driver [/Users/juandavidduquea/.wdm/drivers/chromedriver/mac64/118.0.5993.70/chromedriver-mac-arm64/chromedriver] found in cache
+2024-06-21 23:42:08,821:WARNING:Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1043327d0>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/f55a2c8b30a2951f5700276434611096
+2024-06-21 23:42:08,824:WARNING:Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x104332d10>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/f55a2c8b30a2951f5700276434611096
+2024-06-21 23:42:08,825:WARNING:Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1043334d0>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/f55a2c8b30a2951f5700276434611096
+2024-06-21 23:45:04,865:INFO:====== WebDriver manager ======
+2024-06-21 23:45:04,946:INFO:Get LATEST chromedriver version for google-chrome
+2024-06-21 23:45:04,985:INFO:Get LATEST chromedriver version for google-chrome
+2024-06-21 23:45:05,017:INFO:Driver [/Users/juandavidduquea/.wdm/drivers/chromedriver/mac64/118.0.5993.70/chromedriver-mac-arm64/chromedriver] found in cache
+2024-06-21 23:45:21,993:WARNING:Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ConnectionResetError(54, 'Connection reset by peer')': /session/6f3f2aae4d18ee42c951797a50d59d96
+2024-06-21 23:45:21,994:WARNING:Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1042eead0>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/6f3f2aae4d18ee42c951797a50d59d96
+2024-06-21 23:45:21,995:WARNING:Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1042ef010>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/6f3f2aae4d18ee42c951797a50d59d96
+2024-06-21 23:46:14,933:INFO:====== WebDriver manager ======
+2024-06-21 23:46:15,018:INFO:Get LATEST chromedriver version for google-chrome
+2024-06-21 23:46:15,048:INFO:Get LATEST chromedriver version for google-chrome
+2024-06-21 23:46:15,072:INFO:Driver [/Users/juandavidduquea/.wdm/drivers/chromedriver/mac64/118.0.5993.70/chromedriver-mac-arm64/chromedriver] found in cache
+2024-06-21 23:46:35,901:INFO:Order captured: {'orden': '5579657', 'fecha_de_orden': '06/05/2024', 'total_de_orden': '$1,095,000.01', 'total_pv': 62.4, 'cicle': 809}
+2024-06-21 23:46:35,919:INFO:Order captured: {'orden': '5576630', 'fecha_de_orden': '06/02/2024', 'total_de_orden': '$3,990,000.00', 'total_pv': 500.0, 'cicle': 808}
+2024-06-21 23:46:35,937:INFO:Order captured: {'orden': '5537727', 'fecha_de_orden': '04/27/2024', 'total_de_orden': '$662,599.99', 'total_pv': 114.0, 'cicle': 803}
+2024-06-21 23:46:35,955:INFO:Order captured: {'orden': '5502009', 'fecha_de_orden': '03/22/2024', 'total_de_orden': '$120,000.00', 'total_pv': 0.0, 'cicle': 798}
+2024-06-21 23:46:35,972:INFO:Order captured: {'orden': '5495406', 'fecha_de_orden': '03/16/2024', 'total_de_orden': '$3,990,000.00', 'total_pv': 500.0, 'cicle': 797}
+2024-06-21 23:46:35,990:INFO:Order captured: {'orden': '5421068', 'fecha_de_orden': '03/10/2024', 'total_de_orden': '$351,200.00', 'total_pv': 60.0, 'cicle': 796}
+2024-06-21 23:46:36,007:INFO:Order captured: {'orden': '5462699', 'fecha_de_orden': '02/16/2024', 'total_de_orden': '$231,500.00', 'total_pv': 41.0, 'cicle': 793}
+2024-06-21 23:46:36,025:INFO:Order captured: {'orden': '5437039', 'fecha_de_orden': '01/27/2024', 'total_de_orden': '$387,100.00', 'total_pv': 66.0, 'cicle': 790}
+2024-06-21 23:46:36,042:INFO:Order captured: {'orden': '5415013', 'fecha_de_orden': '01/07/2024', 'total_de_orden': '$271,400.00', 'total_pv': 47.0, 'cicle': 787}
+2024-06-21 23:46:36,059:INFO:Order captured: {'orden': '5395088', 'fecha_de_orden': '12/16/2023', 'total_de_orden': '$367,200.00', 'total_pv': 64.0, 'cicle': 784}
+2024-06-21 23:46:36,087:INFO:Order captured: {'orden': '5579657', 'fecha_de_orden': '06/05/2024', 'total_de_orden': '$1,095,000.01', 'total_pv': 62.4, 'cicle': 809}
+2024-06-21 23:46:36,104:INFO:Order captured: {'orden': '5576630', 'fecha_de_orden': '06/02/2024', 'total_de_orden': '$3,990,000.00', 'total_pv': 500.0, 'cicle': 808}
+2024-06-21 23:46:36,121:INFO:Order captured: {'orden': '5537727', 'fecha_de_orden': '04/27/2024', 'total_de_orden': '$662,599.99', 'total_pv': 114.0, 'cicle': 803}
+2024-06-21 23:46:36,138:INFO:Order captured: {'orden': '5502009', 'fecha_de_orden': '03/22/2024', 'total_de_orden': '$120,000.00', 'total_pv': 0.0, 'cicle': 798}
+2024-06-21 23:46:36,156:INFO:Order captured: {'orden': '5495406', 'fecha_de_orden': '03/16/2024', 'total_de_orden': '$3,990,000.00', 'total_pv': 500.0, 'cicle': 797}
+2024-06-21 23:46:36,173:INFO:Order captured: {'orden': '5421068', 'fecha_de_orden': '03/10/2024', 'total_de_orden': '$351,200.00', 'total_pv': 60.0, 'cicle': 796}
+2024-06-21 23:46:36,191:INFO:Order captured: {'orden': '5462699', 'fecha_de_orden': '02/16/2024', 'total_de_orden': '$231,500.00', 'total_pv': 41.0, 'cicle': 793}
+2024-06-21 23:46:36,208:INFO:Order captured: {'orden': '5437039', 'fecha_de_orden': '01/27/2024', 'total_de_orden': '$387,100.00', 'total_pv': 66.0, 'cicle': 790}
+2024-06-21 23:46:36,225:INFO:Order captured: {'orden': '5415013', 'fecha_de_orden': '01/07/2024', 'total_de_orden': '$271,400.00', 'total_pv': 47.0, 'cicle': 787}
+2024-06-21 23:46:36,243:INFO:Order captured: {'orden': '5395088', 'fecha_de_orden': '12/16/2023', 'total_de_orden': '$367,200.00', 'total_pv': 64.0, 'cicle': 784}
+2024-06-21 23:46:37,816:WARNING:Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x105911590>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/9fae900d57ee3f0949493bb7312ef19c
+2024-06-21 23:46:37,817:WARNING:Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x104d34d10>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/9fae900d57ee3f0949493bb7312ef19c
+2024-06-21 23:46:37,817:WARNING:Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x104dfa890>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/9fae900d57ee3f0949493bb7312ef19c
+2024-06-21 23:48:40,072:INFO:====== WebDriver manager ======
+2024-06-21 23:48:40,154:INFO:Get LATEST chromedriver version for google-chrome
+2024-06-21 23:48:40,193:INFO:Get LATEST chromedriver version for google-chrome
+2024-06-21 23:48:40,218:INFO:Driver [/Users/juandavidduquea/.wdm/drivers/chromedriver/mac64/118.0.5993.70/chromedriver-mac-arm64/chromedriver] found in cache
+2024-06-21 23:49:19,736:INFO:Order captured: {'orden': '5579657', 'fecha_de_orden': '06/05/2024', 'total_de_orden': '$1,095,000.01', 'total_pv': 62.4, 'cicle': 809}
+2024-06-21 23:49:19,754:INFO:Order captured: {'orden': '5576630', 'fecha_de_orden': '06/02/2024', 'total_de_orden': '$3,990,000.00', 'total_pv': 500.0, 'cicle': 808}
+2024-06-21 23:49:19,771:INFO:Order captured: {'orden': '5537727', 'fecha_de_orden': '04/27/2024', 'total_de_orden': '$662,599.99', 'total_pv': 114.0, 'cicle': 803}
+2024-06-21 23:49:19,788:INFO:Order captured: {'orden': '5502009', 'fecha_de_orden': '03/22/2024', 'total_de_orden': '$120,000.00', 'total_pv': 0.0, 'cicle': 798}
+2024-06-21 23:49:19,805:INFO:Order captured: {'orden': '5495406', 'fecha_de_orden': '03/16/2024', 'total_de_orden': '$3,990,000.00', 'total_pv': 500.0, 'cicle': 797}
+2024-06-21 23:49:19,822:INFO:Order captured: {'orden': '5421068', 'fecha_de_orden': '03/10/2024', 'total_de_orden': '$351,200.00', 'total_pv': 60.0, 'cicle': 796}
+2024-06-21 23:49:19,840:INFO:Order captured: {'orden': '5462699', 'fecha_de_orden': '02/16/2024', 'total_de_orden': '$231,500.00', 'total_pv': 41.0, 'cicle': 793}
+2024-06-21 23:49:19,858:INFO:Order captured: {'orden': '5437039', 'fecha_de_orden': '01/27/2024', 'total_de_orden': '$387,100.00', 'total_pv': 66.0, 'cicle': 790}
+2024-06-21 23:49:19,874:INFO:Order captured: {'orden': '5415013', 'fecha_de_orden': '01/07/2024', 'total_de_orden': '$271,400.00', 'total_pv': 47.0, 'cicle': 787}
+2024-06-21 23:49:19,891:INFO:Order captured: {'orden': '5395088', 'fecha_de_orden': '12/16/2023', 'total_de_orden': '$367,200.00', 'total_pv': 64.0, 'cicle': 784}
+2024-06-21 23:49:19,918:INFO:Order captured: {'orden': '5579657', 'fecha_de_orden': '06/05/2024', 'total_de_orden': '$1,095,000.01', 'total_pv': 62.4, 'cicle': 809}
+2024-06-21 23:49:19,935:INFO:Order captured: {'orden': '5576630', 'fecha_de_orden': '06/02/2024', 'total_de_orden': '$3,990,000.00', 'total_pv': 500.0, 'cicle': 808}
+2024-06-21 23:49:19,953:INFO:Order captured: {'orden': '5537727', 'fecha_de_orden': '04/27/2024', 'total_de_orden': '$662,599.99', 'total_pv': 114.0, 'cicle': 803}
+2024-06-21 23:49:19,969:INFO:Order captured: {'orden': '5502009', 'fecha_de_orden': '03/22/2024', 'total_de_orden': '$120,000.00', 'total_pv': 0.0, 'cicle': 798}
+2024-06-21 23:49:19,986:INFO:Order captured: {'orden': '5495406', 'fecha_de_orden': '03/16/2024', 'total_de_orden': '$3,990,000.00', 'total_pv': 500.0, 'cicle': 797}
+2024-06-21 23:49:20,003:INFO:Order captured: {'orden': '5421068', 'fecha_de_orden': '03/10/2024', 'total_de_orden': '$351,200.00', 'total_pv': 60.0, 'cicle': 796}
+2024-06-21 23:49:20,020:INFO:Order captured: {'orden': '5462699', 'fecha_de_orden': '02/16/2024', 'total_de_orden': '$231,500.00', 'total_pv': 41.0, 'cicle': 793}
+2024-06-21 23:49:20,037:INFO:Order captured: {'orden': '5437039', 'fecha_de_orden': '01/27/2024', 'total_de_orden': '$387,100.00', 'total_pv': 66.0, 'cicle': 790}
+2024-06-21 23:49:20,053:INFO:Order captured: {'orden': '5415013', 'fecha_de_orden': '01/07/2024', 'total_de_orden': '$271,400.00', 'total_pv': 47.0, 'cicle': 787}
+2024-06-21 23:49:20,073:INFO:Order captured: {'orden': '5395088', 'fecha_de_orden': '12/16/2023', 'total_de_orden': '$367,200.00', 'total_pv': 64.0, 'cicle': 784}
+2024-06-21 23:49:21,697:WARNING:Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x103e9fdd0>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/73d2f803bf2158c4990ed02e89176b5f
+2024-06-21 23:49:21,698:WARNING:Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x103d43290>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/73d2f803bf2158c4990ed02e89176b5f
+2024-06-21 23:49:21,699:WARNING:Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x103d42390>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/73d2f803bf2158c4990ed02e89176b5f
+2024-06-21 23:50:40,894:INFO:====== WebDriver manager ======
+2024-06-21 23:50:41,013:INFO:Get LATEST chromedriver version for google-chrome
+2024-06-21 23:50:41,052:INFO:Get LATEST chromedriver version for google-chrome
+2024-06-21 23:50:41,085:INFO:Driver [/Users/juandavidduquea/.wdm/drivers/chromedriver/mac64/118.0.5993.70/chromedriver-mac-arm64/chromedriver] found in cache
+2024-06-21 23:51:07,642:INFO:Order captured: {'orden': '5590704', 'fecha_de_orden': '06/14/2024', 'total_de_orden': '$87,800.00', 'total_pv': 15.0, 'cicle': 810}
+2024-06-21 23:51:07,660:INFO:Order captured: {'orden': '5583188', 'fecha_de_orden': '06/07/2024', 'total_de_orden': '$87,800.00', 'total_pv': 15.0, 'cicle': 809}
+2024-06-21 23:51:07,678:INFO:Order captured: {'orden': '5568176', 'fecha_de_orden': '05/25/2024', 'total_de_orden': '$191,600.00', 'total_pv': 34.0, 'cicle': 807}
+2024-06-21 23:51:07,695:INFO:Order captured: {'orden': '5539619', 'fecha_de_orden': '04/29/2024', 'total_de_orden': '$59,900.00', 'total_pv': 11.0, 'cicle': 804}
+2024-06-21 23:51:07,713:INFO:Order captured: {'orden': '5537370', 'fecha_de_orden': '04/27/2024', 'total_de_orden': '$175,600.00', 'total_pv': 30.0, 'cicle': 803}
+2024-06-21 23:51:07,729:INFO:Order captured: {'orden': '5535036', 'fecha_de_orden': '04/24/2024', 'total_de_orden': '$175,600.00', 'total_pv': 30.0, 'cicle': 803}
+2024-06-21 23:51:07,746:INFO:Order captured: {'orden': '5524130', 'fecha_de_orden': '04/13/2024', 'total_de_orden': '$175,600.00', 'total_pv': 30.0, 'cicle': 801}
+2024-06-21 23:51:07,763:INFO:Order captured: {'orden': '5496024', 'fecha_de_orden': '03/17/2024', 'total_de_orden': '$147,700.00', 'total_pv': 26.0, 'cicle': 797}
+2024-06-21 23:51:07,780:INFO:Order captured: {'orden': '5493795', 'fecha_de_orden': '03/15/2024', 'total_de_orden': '$271,400.00', 'total_pv': 47.0, 'cicle': 797}
+2024-06-21 23:51:07,797:INFO:Order captured: {'orden': '5478973', 'fecha_de_orden': '03/01/2024', 'total_de_orden': '$183,600.00', 'total_pv': 32.0, 'cicle': 795}
+2024-06-21 23:51:07,824:INFO:Order captured: {'orden': '5590704', 'fecha_de_orden': '06/14/2024', 'total_de_orden': '$87,800.00', 'total_pv': 15.0, 'cicle': 810}
+2024-06-21 23:51:07,841:INFO:Order captured: {'orden': '5583188', 'fecha_de_orden': '06/07/2024', 'total_de_orden': '$87,800.00', 'total_pv': 15.0, 'cicle': 809}
+2024-06-21 23:51:07,858:INFO:Order captured: {'orden': '5568176', 'fecha_de_orden': '05/25/2024', 'total_de_orden': '$191,600.00', 'total_pv': 34.0, 'cicle': 807}
+2024-06-21 23:51:07,875:INFO:Order captured: {'orden': '5539619', 'fecha_de_orden': '04/29/2024', 'total_de_orden': '$59,900.00', 'total_pv': 11.0, 'cicle': 804}
+2024-06-21 23:51:07,891:INFO:Order captured: {'orden': '5537370', 'fecha_de_orden': '04/27/2024', 'total_de_orden': '$175,600.00', 'total_pv': 30.0, 'cicle': 803}
+2024-06-21 23:51:07,908:INFO:Order captured: {'orden': '5535036', 'fecha_de_orden': '04/24/2024', 'total_de_orden': '$175,600.00', 'total_pv': 30.0, 'cicle': 803}
+2024-06-21 23:51:07,925:INFO:Order captured: {'orden': '5524130', 'fecha_de_orden': '04/13/2024', 'total_de_orden': '$175,600.00', 'total_pv': 30.0, 'cicle': 801}
+2024-06-21 23:51:07,941:INFO:Order captured: {'orden': '5496024', 'fecha_de_orden': '03/17/2024', 'total_de_orden': '$147,700.00', 'total_pv': 26.0, 'cicle': 797}
+2024-06-21 23:51:07,958:INFO:Order captured: {'orden': '5493795', 'fecha_de_orden': '03/15/2024', 'total_de_orden': '$271,400.00', 'total_pv': 47.0, 'cicle': 797}
+2024-06-21 23:51:07,974:INFO:Order captured: {'orden': '5478973', 'fecha_de_orden': '03/01/2024', 'total_de_orden': '$183,600.00', 'total_pv': 32.0, 'cicle': 795}
+2024-06-21 23:51:09,509:WARNING:Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x106556250>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/1ea513e3b977900f24e79521369e9970
+2024-06-21 23:51:09,510:WARNING:Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x106557e90>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/1ea513e3b977900f24e79521369e9970
+2024-06-21 23:51:09,511:WARNING:Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1063faa90>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/1ea513e3b977900f24e79521369e9970
+2024-06-21 23:51:54,032:INFO:====== WebDriver manager ======
+2024-06-21 23:51:54,115:INFO:Get LATEST chromedriver version for google-chrome
+2024-06-21 23:51:54,154:INFO:Get LATEST chromedriver version for google-chrome
+2024-06-21 23:51:54,178:INFO:Driver [/Users/juandavidduquea/.wdm/drivers/chromedriver/mac64/118.0.5993.70/chromedriver-mac-arm64/chromedriver] found in cache
+2024-06-21 23:52:20,179:INFO:Order captured: {'orden': '5590704', 'fecha_de_orden': '06/14/2024', 'total_de_orden': '$87,800.00', 'total_pv': 15.0, 'cicle': 810}
+2024-06-21 23:52:20,197:INFO:Order captured: {'orden': '5583188', 'fecha_de_orden': '06/07/2024', 'total_de_orden': '$87,800.00', 'total_pv': 15.0, 'cicle': 809}
+2024-06-21 23:52:20,213:INFO:Order captured: {'orden': '5568176', 'fecha_de_orden': '05/25/2024', 'total_de_orden': '$191,600.00', 'total_pv': 34.0, 'cicle': 807}
+2024-06-21 23:52:20,229:INFO:Order captured: {'orden': '5539619', 'fecha_de_orden': '04/29/2024', 'total_de_orden': '$59,900.00', 'total_pv': 11.0, 'cicle': 804}
+2024-06-21 23:52:20,246:INFO:Order captured: {'orden': '5537370', 'fecha_de_orden': '04/27/2024', 'total_de_orden': '$175,600.00', 'total_pv': 30.0, 'cicle': 803}
+2024-06-21 23:52:20,263:INFO:Order captured: {'orden': '5535036', 'fecha_de_orden': '04/24/2024', 'total_de_orden': '$175,600.00', 'total_pv': 30.0, 'cicle': 803}
+2024-06-21 23:52:20,280:INFO:Order captured: {'orden': '5524130', 'fecha_de_orden': '04/13/2024', 'total_de_orden': '$175,600.00', 'total_pv': 30.0, 'cicle': 801}
+2024-06-21 23:52:20,298:INFO:Order captured: {'orden': '5496024', 'fecha_de_orden': '03/17/2024', 'total_de_orden': '$147,700.00', 'total_pv': 26.0, 'cicle': 797}
+2024-06-21 23:52:20,315:INFO:Order captured: {'orden': '5493795', 'fecha_de_orden': '03/15/2024', 'total_de_orden': '$271,400.00', 'total_pv': 47.0, 'cicle': 797}
+2024-06-21 23:52:20,332:INFO:Order captured: {'orden': '5478973', 'fecha_de_orden': '03/01/2024', 'total_de_orden': '$183,600.00', 'total_pv': 32.0, 'cicle': 795}
+2024-06-21 23:52:20,360:INFO:Order captured: {'orden': '5590704', 'fecha_de_orden': '06/14/2024', 'total_de_orden': '$87,800.00', 'total_pv': 15.0, 'cicle': 810}
+2024-06-21 23:52:20,378:INFO:Order captured: {'orden': '5583188', 'fecha_de_orden': '06/07/2024', 'total_de_orden': '$87,800.00', 'total_pv': 15.0, 'cicle': 809}
+2024-06-21 23:52:20,395:INFO:Order captured: {'orden': '5568176', 'fecha_de_orden': '05/25/2024', 'total_de_orden': '$191,600.00', 'total_pv': 34.0, 'cicle': 807}
+2024-06-21 23:52:20,412:INFO:Order captured: {'orden': '5539619', 'fecha_de_orden': '04/29/2024', 'total_de_orden': '$59,900.00', 'total_pv': 11.0, 'cicle': 804}
+2024-06-21 23:52:20,429:INFO:Order captured: {'orden': '5537370', 'fecha_de_orden': '04/27/2024', 'total_de_orden': '$175,600.00', 'total_pv': 30.0, 'cicle': 803}
+2024-06-21 23:52:20,449:INFO:Order captured: {'orden': '5535036', 'fecha_de_orden': '04/24/2024', 'total_de_orden': '$175,600.00', 'total_pv': 30.0, 'cicle': 803}
+2024-06-21 23:52:20,465:INFO:Order captured: {'orden': '5524130', 'fecha_de_orden': '04/13/2024', 'total_de_orden': '$175,600.00', 'total_pv': 30.0, 'cicle': 801}
+2024-06-21 23:52:20,481:INFO:Order captured: {'orden': '5496024', 'fecha_de_orden': '03/17/2024', 'total_de_orden': '$147,700.00', 'total_pv': 26.0, 'cicle': 797}
+2024-06-21 23:52:20,498:INFO:Order captured: {'orden': '5493795', 'fecha_de_orden': '03/15/2024', 'total_de_orden': '$271,400.00', 'total_pv': 47.0, 'cicle': 797}
+2024-06-21 23:52:20,514:INFO:Order captured: {'orden': '5478973', 'fecha_de_orden': '03/01/2024', 'total_de_orden': '$183,600.00', 'total_pv': 32.0, 'cicle': 795}
+2024-06-21 23:52:22,100:WARNING:Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x10610dc50>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/e94ed99708dd7e21b6dceab893cbaed8
+2024-06-21 23:52:22,101:WARNING:Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x105eed750>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/e94ed99708dd7e21b6dceab893cbaed8
+2024-06-21 23:52:22,101:WARNING:Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x105fb2a10>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/e94ed99708dd7e21b6dceab893cbaed8
+2024-06-22 00:05:37,427:INFO:====== WebDriver manager ======
+2024-06-22 00:05:37,552:INFO:Get LATEST chromedriver version for google-chrome
+2024-06-22 00:05:37,590:INFO:Get LATEST chromedriver version for google-chrome
+2024-06-22 00:05:37,617:INFO:Get LATEST chromedriver version for google-chrome
+2024-06-22 00:05:37,689:INFO:WebDriver version 118.0.5993.70 selected
+2024-06-22 00:05:37,690:INFO:Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/118.0.5993.70/mac-arm64/chromedriver-mac-arm64.zip
+2024-06-22 00:05:37,690:INFO:About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/118.0.5993.70/mac-arm64/chromedriver-mac-arm64.zip
+2024-06-22 00:05:37,907:INFO:Driver downloading response is 200
+2024-06-22 00:05:38,067:INFO:Get LATEST chromedriver version for google-chrome
+2024-06-22 00:05:38,183:INFO:Driver has been saved in cache [/Users/juandavidduquea/.wdm/drivers/chromedriver/mac64/118.0.5993.70]
+2024-06-22 00:06:10,308:INFO:Order captured: {'orden': '5590704', 'fecha_de_orden': '06/14/2024', 'total_de_orden': '$87,800.00', 'total_pv': 15.0, 'cicle': 810}
+2024-06-22 00:06:10,325:INFO:Order captured: {'orden': '5583188', 'fecha_de_orden': '06/07/2024', 'total_de_orden': '$87,800.00', 'total_pv': 15.0, 'cicle': 809}
+2024-06-22 00:06:10,341:INFO:Order captured: {'orden': '5568176', 'fecha_de_orden': '05/25/2024', 'total_de_orden': '$191,600.00', 'total_pv': 34.0, 'cicle': 807}
+2024-06-22 00:06:10,358:INFO:Order captured: {'orden': '5539619', 'fecha_de_orden': '04/29/2024', 'total_de_orden': '$59,900.00', 'total_pv': 11.0, 'cicle': 804}
+2024-06-22 00:06:10,376:INFO:Order captured: {'orden': '5537370', 'fecha_de_orden': '04/27/2024', 'total_de_orden': '$175,600.00', 'total_pv': 30.0, 'cicle': 803}
+2024-06-22 00:06:10,392:INFO:Order captured: {'orden': '5535036', 'fecha_de_orden': '04/24/2024', 'total_de_orden': '$175,600.00', 'total_pv': 30.0, 'cicle': 803}
+2024-06-22 00:06:10,410:INFO:Order captured: {'orden': '5524130', 'fecha_de_orden': '04/13/2024', 'total_de_orden': '$175,600.00', 'total_pv': 30.0, 'cicle': 801}
+2024-06-22 00:06:10,426:INFO:Order captured: {'orden': '5496024', 'fecha_de_orden': '03/17/2024', 'total_de_orden': '$147,700.00', 'total_pv': 26.0, 'cicle': 797}
+2024-06-22 00:06:10,443:INFO:Order captured: {'orden': '5493795', 'fecha_de_orden': '03/15/2024', 'total_de_orden': '$271,400.00', 'total_pv': 47.0, 'cicle': 797}
+2024-06-22 00:06:10,460:INFO:Order captured: {'orden': '5478973', 'fecha_de_orden': '03/01/2024', 'total_de_orden': '$183,600.00', 'total_pv': 32.0, 'cicle': 795}
+2024-06-22 00:06:10,489:INFO:Order captured: {'orden': '5590704', 'fecha_de_orden': '06/14/2024', 'total_de_orden': '$87,800.00', 'total_pv': 15.0, 'cicle': 810}
+2024-06-22 00:06:10,509:INFO:Order captured: {'orden': '5583188', 'fecha_de_orden': '06/07/2024', 'total_de_orden': '$87,800.00', 'total_pv': 15.0, 'cicle': 809}
+2024-06-22 00:06:10,525:INFO:Order captured: {'orden': '5568176', 'fecha_de_orden': '05/25/2024', 'total_de_orden': '$191,600.00', 'total_pv': 34.0, 'cicle': 807}
+2024-06-22 00:06:10,541:INFO:Order captured: {'orden': '5539619', 'fecha_de_orden': '04/29/2024', 'total_de_orden': '$59,900.00', 'total_pv': 11.0, 'cicle': 804}
+2024-06-22 00:06:10,559:INFO:Order captured: {'orden': '5537370', 'fecha_de_orden': '04/27/2024', 'total_de_orden': '$175,600.00', 'total_pv': 30.0, 'cicle': 803}
+2024-06-22 00:06:10,575:INFO:Order captured: {'orden': '5535036', 'fecha_de_orden': '04/24/2024', 'total_de_orden': '$175,600.00', 'total_pv': 30.0, 'cicle': 803}
+2024-06-22 00:06:10,592:INFO:Order captured: {'orden': '5524130', 'fecha_de_orden': '04/13/2024', 'total_de_orden': '$175,600.00', 'total_pv': 30.0, 'cicle': 801}
+2024-06-22 00:06:10,608:INFO:Order captured: {'orden': '5496024', 'fecha_de_orden': '03/17/2024', 'total_de_orden': '$147,700.00', 'total_pv': 26.0, 'cicle': 797}
+2024-06-22 00:06:10,625:INFO:Order captured: {'orden': '5493795', 'fecha_de_orden': '03/15/2024', 'total_de_orden': '$271,400.00', 'total_pv': 47.0, 'cicle': 797}
+2024-06-22 00:06:10,641:INFO:Order captured: {'orden': '5478973', 'fecha_de_orden': '03/01/2024', 'total_de_orden': '$183,600.00', 'total_pv': 32.0, 'cicle': 795}
+2024-06-22 00:06:12,240:WARNING:Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x10200bcd0>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/39b69eb66a18b047406fce27d3925b04
+2024-06-22 00:06:12,241:WARNING:Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x10200a410>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/39b69eb66a18b047406fce27d3925b04
+2024-06-22 00:06:12,241:WARNING:Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x10200ec50>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/39b69eb66a18b047406fce27d3925b04
+2024-06-22 00:12:42,719:INFO:====== WebDriver manager ======
+2024-06-22 00:12:42,839:INFO:Get LATEST chromedriver version for google-chrome
+2024-06-22 00:12:42,869:INFO:Get LATEST chromedriver version for google-chrome
+2024-06-22 00:12:42,902:INFO:Driver [/Users/juandavidduquea/.wdm/drivers/chromedriver/mac64/118.0.5993.70/chromedriver-mac-arm64/chromedriver] found in cache
+2024-06-22 00:13:26,984:INFO:Order captured: {'orden': '5590704', 'fecha_de_orden': '06/14/2024', 'total_de_orden': '$87,800.00', 'total_pv': 15.0, 'cicle': 810}
+2024-06-22 00:13:27,001:INFO:Order captured: {'orden': '5583188', 'fecha_de_orden': '06/07/2024', 'total_de_orden': '$87,800.00', 'total_pv': 15.0, 'cicle': 809}
+2024-06-22 00:13:27,017:INFO:Order captured: {'orden': '5568176', 'fecha_de_orden': '05/25/2024', 'total_de_orden': '$191,600.00', 'total_pv': 34.0, 'cicle': 807}
+2024-06-22 00:13:27,034:INFO:Order captured: {'orden': '5539619', 'fecha_de_orden': '04/29/2024', 'total_de_orden': '$59,900.00', 'total_pv': 11.0, 'cicle': 804}
+2024-06-22 00:13:27,051:INFO:Order captured: {'orden': '5537370', 'fecha_de_orden': '04/27/2024', 'total_de_orden': '$175,600.00', 'total_pv': 30.0, 'cicle': 803}
+2024-06-22 00:13:27,069:INFO:Order captured: {'orden': '5535036', 'fecha_de_orden': '04/24/2024', 'total_de_orden': '$175,600.00', 'total_pv': 30.0, 'cicle': 803}
+2024-06-22 00:13:27,086:INFO:Order captured: {'orden': '5524130', 'fecha_de_orden': '04/13/2024', 'total_de_orden': '$175,600.00', 'total_pv': 30.0, 'cicle': 801}
+2024-06-22 00:13:27,103:INFO:Order captured: {'orden': '5496024', 'fecha_de_orden': '03/17/2024', 'total_de_orden': '$147,700.00', 'total_pv': 26.0, 'cicle': 797}
+2024-06-22 00:13:27,119:INFO:Order captured: {'orden': '5493795', 'fecha_de_orden': '03/15/2024', 'total_de_orden': '$271,400.00', 'total_pv': 47.0, 'cicle': 797}
+2024-06-22 00:13:27,137:INFO:Order captured: {'orden': '5478973', 'fecha_de_orden': '03/01/2024', 'total_de_orden': '$183,600.00', 'total_pv': 32.0, 'cicle': 795}
+2024-06-22 00:13:27,164:INFO:Order captured: {'orden': '5590704', 'fecha_de_orden': '06/14/2024', 'total_de_orden': '$87,800.00', 'total_pv': 15.0, 'cicle': 810}
+2024-06-22 00:13:27,185:INFO:Order captured: {'orden': '5583188', 'fecha_de_orden': '06/07/2024', 'total_de_orden': '$87,800.00', 'total_pv': 15.0, 'cicle': 809}
+2024-06-22 00:13:27,203:INFO:Order captured: {'orden': '5568176', 'fecha_de_orden': '05/25/2024', 'total_de_orden': '$191,600.00', 'total_pv': 34.0, 'cicle': 807}
+2024-06-22 00:13:27,222:INFO:Order captured: {'orden': '5539619', 'fecha_de_orden': '04/29/2024', 'total_de_orden': '$59,900.00', 'total_pv': 11.0, 'cicle': 804}
+2024-06-22 00:13:27,240:INFO:Order captured: {'orden': '5537370', 'fecha_de_orden': '04/27/2024', 'total_de_orden': '$175,600.00', 'total_pv': 30.0, 'cicle': 803}
+2024-06-22 00:13:27,258:INFO:Order captured: {'orden': '5535036', 'fecha_de_orden': '04/24/2024', 'total_de_orden': '$175,600.00', 'total_pv': 30.0, 'cicle': 803}
+2024-06-22 00:13:27,276:INFO:Order captured: {'orden': '5524130', 'fecha_de_orden': '04/13/2024', 'total_de_orden': '$175,600.00', 'total_pv': 30.0, 'cicle': 801}
+2024-06-22 00:13:27,293:INFO:Order captured: {'orden': '5496024', 'fecha_de_orden': '03/17/2024', 'total_de_orden': '$147,700.00', 'total_pv': 26.0, 'cicle': 797}
+2024-06-22 00:13:27,309:INFO:Order captured: {'orden': '5493795', 'fecha_de_orden': '03/15/2024', 'total_de_orden': '$271,400.00', 'total_pv': 47.0, 'cicle': 797}
+2024-06-22 00:13:27,326:INFO:Order captured: {'orden': '5478973', 'fecha_de_orden': '03/01/2024', 'total_de_orden': '$183,600.00', 'total_pv': 32.0, 'cicle': 795}
+2024-06-22 00:13:28,884:WARNING:Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x104653890>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/101b0f7247eb89ff9c90295f05945d65
+2024-06-22 00:13:28,885:WARNING:Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1044f29d0>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/101b0f7247eb89ff9c90295f05945d65
+2024-06-22 00:13:28,886:WARNING:Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1044f2f50>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/101b0f7247eb89ff9c90295f05945d65
+2024-06-22 00:17:21,099:INFO:====== WebDriver manager ======
+2024-06-22 00:17:21,184:INFO:Get LATEST chromedriver version for google-chrome
+2024-06-22 00:17:21,212:INFO:Get LATEST chromedriver version for google-chrome
+2024-06-22 00:17:21,237:INFO:Driver [/Users/juandavidduquea/.wdm/drivers/chromedriver/mac64/118.0.5993.70/chromedriver-mac-arm64/chromedriver] found in cache
+2024-06-22 00:17:49,688:INFO:Order captured: {'orden': '5590704', 'fecha_de_orden': '06/14/2024', 'total_de_orden': '$87,800.00', 'total_pv': 15.0, 'cicle': 810}
+2024-06-22 00:17:49,706:INFO:Order captured: {'orden': '5583188', 'fecha_de_orden': '06/07/2024', 'total_de_orden': '$87,800.00', 'total_pv': 15.0, 'cicle': 809}
+2024-06-22 00:17:49,723:INFO:Order captured: {'orden': '5568176', 'fecha_de_orden': '05/25/2024', 'total_de_orden': '$191,600.00', 'total_pv': 34.0, 'cicle': 807}
+2024-06-22 00:17:49,740:INFO:Order captured: {'orden': '5539619', 'fecha_de_orden': '04/29/2024', 'total_de_orden': '$59,900.00', 'total_pv': 11.0, 'cicle': 804}
+2024-06-22 00:17:49,758:INFO:Order captured: {'orden': '5537370', 'fecha_de_orden': '04/27/2024', 'total_de_orden': '$175,600.00', 'total_pv': 30.0, 'cicle': 803}
+2024-06-22 00:17:49,775:INFO:Order captured: {'orden': '5535036', 'fecha_de_orden': '04/24/2024', 'total_de_orden': '$175,600.00', 'total_pv': 30.0, 'cicle': 803}
+2024-06-22 00:17:49,792:INFO:Order captured: {'orden': '5524130', 'fecha_de_orden': '04/13/2024', 'total_de_orden': '$175,600.00', 'total_pv': 30.0, 'cicle': 801}
+2024-06-22 00:17:49,808:INFO:Order captured: {'orden': '5496024', 'fecha_de_orden': '03/17/2024', 'total_de_orden': '$147,700.00', 'total_pv': 26.0, 'cicle': 797}
+2024-06-22 00:17:49,825:INFO:Order captured: {'orden': '5493795', 'fecha_de_orden': '03/15/2024', 'total_de_orden': '$271,400.00', 'total_pv': 47.0, 'cicle': 797}
+2024-06-22 00:17:49,842:INFO:Order captured: {'orden': '5478973', 'fecha_de_orden': '03/01/2024', 'total_de_orden': '$183,600.00', 'total_pv': 32.0, 'cicle': 795}
+2024-06-22 00:17:49,869:INFO:Order captured: {'orden': '5590704', 'fecha_de_orden': '06/14/2024', 'total_de_orden': '$87,800.00', 'total_pv': 15.0, 'cicle': 810}
+2024-06-22 00:17:49,886:INFO:Order captured: {'orden': '5583188', 'fecha_de_orden': '06/07/2024', 'total_de_orden': '$87,800.00', 'total_pv': 15.0, 'cicle': 809}
+2024-06-22 00:17:49,907:INFO:Order captured: {'orden': '5568176', 'fecha_de_orden': '05/25/2024', 'total_de_orden': '$191,600.00', 'total_pv': 34.0, 'cicle': 807}
+2024-06-22 00:17:49,924:INFO:Order captured: {'orden': '5539619', 'fecha_de_orden': '04/29/2024', 'total_de_orden': '$59,900.00', 'total_pv': 11.0, 'cicle': 804}
+2024-06-22 00:17:49,940:INFO:Order captured: {'orden': '5537370', 'fecha_de_orden': '04/27/2024', 'total_de_orden': '$175,600.00', 'total_pv': 30.0, 'cicle': 803}
+2024-06-22 00:17:49,957:INFO:Order captured: {'orden': '5535036', 'fecha_de_orden': '04/24/2024', 'total_de_orden': '$175,600.00', 'total_pv': 30.0, 'cicle': 803}
+2024-06-22 00:17:49,974:INFO:Order captured: {'orden': '5524130', 'fecha_de_orden': '04/13/2024', 'total_de_orden': '$175,600.00', 'total_pv': 30.0, 'cicle': 801}
+2024-06-22 00:17:49,991:INFO:Order captured: {'orden': '5496024', 'fecha_de_orden': '03/17/2024', 'total_de_orden': '$147,700.00', 'total_pv': 26.0, 'cicle': 797}
+2024-06-22 00:17:50,008:INFO:Order captured: {'orden': '5493795', 'fecha_de_orden': '03/15/2024', 'total_de_orden': '$271,400.00', 'total_pv': 47.0, 'cicle': 797}
+2024-06-22 00:17:50,024:INFO:Order captured: {'orden': '5478973', 'fecha_de_orden': '03/01/2024', 'total_de_orden': '$183,600.00', 'total_pv': 32.0, 'cicle': 795}
+2024-06-22 00:17:51,618:WARNING:Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x10611bd10>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/801b26f326655521e6b793e84bcb7445
+2024-06-22 00:17:51,619:WARNING:Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x105fbe610>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/801b26f326655521e6b793e84bcb7445
+2024-06-22 00:17:51,620:WARNING:Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x105fbee50>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/801b26f326655521e6b793e84bcb7445
+2024-06-22 00:19:57,542:INFO:====== WebDriver manager ======
+2024-06-22 00:19:57,624:INFO:Get LATEST chromedriver version for google-chrome
+2024-06-22 00:19:57,651:INFO:Get LATEST chromedriver version for google-chrome
+2024-06-22 00:19:57,684:INFO:Driver [/Users/juandavidduquea/.wdm/drivers/chromedriver/mac64/118.0.5993.70/chromedriver-mac-arm64/chromedriver] found in cache
+2024-06-22 00:20:21,213:INFO:Order captured: {'orden': '5590704', 'fecha_de_orden': '06/14/2024', 'total_de_orden': '$87,800.00', 'total_pv': 15.0, 'cicle': 810}
+2024-06-22 00:20:21,231:INFO:Order captured: {'orden': '5583188', 'fecha_de_orden': '06/07/2024', 'total_de_orden': '$87,800.00', 'total_pv': 15.0, 'cicle': 809}
+2024-06-22 00:20:21,255:INFO:Order captured: {'orden': '5568176', 'fecha_de_orden': '05/25/2024', 'total_de_orden': '$191,600.00', 'total_pv': 34.0, 'cicle': 807}
+2024-06-22 00:20:21,272:INFO:Order captured: {'orden': '5539619', 'fecha_de_orden': '04/29/2024', 'total_de_orden': '$59,900.00', 'total_pv': 11.0, 'cicle': 804}
+2024-06-22 00:20:21,295:INFO:Order captured: {'orden': '5537370', 'fecha_de_orden': '04/27/2024', 'total_de_orden': '$175,600.00', 'total_pv': 30.0, 'cicle': 803}
+2024-06-22 00:20:21,313:INFO:Order captured: {'orden': '5535036', 'fecha_de_orden': '04/24/2024', 'total_de_orden': '$175,600.00', 'total_pv': 30.0, 'cicle': 803}
+2024-06-22 00:20:21,330:INFO:Order captured: {'orden': '5524130', 'fecha_de_orden': '04/13/2024', 'total_de_orden': '$175,600.00', 'total_pv': 30.0, 'cicle': 801}
+2024-06-22 00:20:21,346:INFO:Order captured: {'orden': '5496024', 'fecha_de_orden': '03/17/2024', 'total_de_orden': '$147,700.00', 'total_pv': 26.0, 'cicle': 797}
+2024-06-22 00:20:21,364:INFO:Order captured: {'orden': '5493795', 'fecha_de_orden': '03/15/2024', 'total_de_orden': '$271,400.00', 'total_pv': 47.0, 'cicle': 797}
+2024-06-22 00:20:21,380:INFO:Order captured: {'orden': '5478973', 'fecha_de_orden': '03/01/2024', 'total_de_orden': '$183,600.00', 'total_pv': 32.0, 'cicle': 795}
+2024-06-22 00:20:21,410:INFO:Order captured: {'orden': '5590704', 'fecha_de_orden': '06/14/2024', 'total_de_orden': '$87,800.00', 'total_pv': 15.0, 'cicle': 810}
+2024-06-22 00:20:21,432:INFO:Order captured: {'orden': '5583188', 'fecha_de_orden': '06/07/2024', 'total_de_orden': '$87,800.00', 'total_pv': 15.0, 'cicle': 809}
+2024-06-22 00:20:21,450:INFO:Order captured: {'orden': '5568176', 'fecha_de_orden': '05/25/2024', 'total_de_orden': '$191,600.00', 'total_pv': 34.0, 'cicle': 807}
+2024-06-22 00:20:21,467:INFO:Order captured: {'orden': '5539619', 'fecha_de_orden': '04/29/2024', 'total_de_orden': '$59,900.00', 'total_pv': 11.0, 'cicle': 804}
+2024-06-22 00:20:21,484:INFO:Order captured: {'orden': '5537370', 'fecha_de_orden': '04/27/2024', 'total_de_orden': '$175,600.00', 'total_pv': 30.0, 'cicle': 803}
+2024-06-22 00:20:21,502:INFO:Order captured: {'orden': '5535036', 'fecha_de_orden': '04/24/2024', 'total_de_orden': '$175,600.00', 'total_pv': 30.0, 'cicle': 803}
+2024-06-22 00:20:21,519:INFO:Order captured: {'orden': '5524130', 'fecha_de_orden': '04/13/2024', 'total_de_orden': '$175,600.00', 'total_pv': 30.0, 'cicle': 801}
+2024-06-22 00:20:21,535:INFO:Order captured: {'orden': '5496024', 'fecha_de_orden': '03/17/2024', 'total_de_orden': '$147,700.00', 'total_pv': 26.0, 'cicle': 797}
+2024-06-22 00:20:21,551:INFO:Order captured: {'orden': '5493795', 'fecha_de_orden': '03/15/2024', 'total_de_orden': '$271,400.00', 'total_pv': 47.0, 'cicle': 797}
+2024-06-22 00:20:21,569:INFO:Order captured: {'orden': '5478973', 'fecha_de_orden': '03/01/2024', 'total_de_orden': '$183,600.00', 'total_pv': 32.0, 'cicle': 795}
+2024-06-22 00:20:23,135:WARNING:Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x103c62a50>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/d6b87b9ac85d6ecda2dd98266a65ab1a
+2024-06-22 00:20:23,135:WARNING:Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x103b0a2d0>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/d6b87b9ac85d6ecda2dd98266a65ab1a
+2024-06-22 00:20:23,136:WARNING:Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x103b0ad10>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/d6b87b9ac85d6ecda2dd98266a65ab1a
+2024-06-23 22:30:34,276:INFO:====== WebDriver manager ======
+2024-06-23 22:30:34,358:INFO:Get LATEST chromedriver version for google-chrome
+2024-06-23 22:30:35,447:INFO:Get LATEST chromedriver version for google-chrome
+2024-06-23 22:30:35,521:INFO:Get LATEST chromedriver version for google-chrome
+2024-06-23 22:30:35,694:INFO:WebDriver version 118.0.5993.70 selected
+2024-06-23 22:30:35,695:INFO:Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/118.0.5993.70/mac-arm64/chromedriver-mac-arm64.zip
+2024-06-23 22:30:35,695:INFO:About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/118.0.5993.70/mac-arm64/chromedriver-mac-arm64.zip
+2024-06-23 22:30:35,956:INFO:Driver downloading response is 200
+2024-06-23 22:30:36,680:INFO:Get LATEST chromedriver version for google-chrome
+2024-06-23 22:30:37,854:INFO:Driver has been saved in cache [/Users/juandavidduquea/.wdm/drivers/chromedriver/mac64/118.0.5993.70]
+2024-06-23 22:31:28,421:INFO:Order captured: {'orden': '5590138', 'fecha_de_orden': '06/14/2024', 'total_de_orden': '$101,000.00', 'total_pv': 15.0, 'cicle': 810}
+2024-06-23 22:31:28,441:INFO:Order captured: {'orden': '5576636', 'fecha_de_orden': '06/02/2024', 'total_de_orden': '$87,800.00', 'total_pv': 15.0, 'cicle': 808}
+2024-06-23 22:31:28,460:INFO:Order captured: {'orden': '5560019', 'fecha_de_orden': '05/18/2024', 'total_de_orden': '$175,600.00', 'total_pv': 30.0, 'cicle': 806}
+2024-06-23 22:31:28,477:INFO:Order captured: {'orden': '5560888', 'fecha_de_orden': '05/18/2024', 'total_de_orden': '$87,800.00', 'total_pv': 15.0, 'cicle': 806}
+2024-06-23 22:31:28,493:INFO:Order captured: {'orden': '5532976', 'fecha_de_orden': '04/22/2024', 'total_de_orden': '$87,800.00', 'total_pv': 15.0, 'cicle': 803}
+2024-06-23 22:31:28,511:INFO:Order captured: {'orden': '5522223', 'fecha_de_orden': '04/18/2024', 'total_de_orden': '$175,600.00', 'total_pv': 30.0, 'cicle': 802}
+2024-06-23 22:31:28,527:INFO:Order captured: {'orden': '5519291', 'fecha_de_orden': '04/09/2024', 'total_de_orden': '$30,000.00', 'total_pv': 0.0, 'cicle': 801}
+2024-06-23 22:31:28,543:INFO:Order captured: {'orden': '5516724', 'fecha_de_orden': '04/06/2024', 'total_de_orden': '$63,900.00', 'total_pv': 11.0, 'cicle': 800}
+2024-06-23 22:31:28,559:INFO:Order captured: {'orden': '5494404', 'fecha_de_orden': '03/15/2024', 'total_de_orden': '$3,990,000.00', 'total_pv': 500.0, 'cicle': 797}
+2024-06-23 22:31:28,575:INFO:Order captured: {'orden': '5489736', 'fecha_de_orden': '03/11/2024', 'total_de_orden': '$59,900.00', 'total_pv': 11.0, 'cicle': 797}
+2024-06-23 22:31:28,601:INFO:Order captured: {'orden': '5590138', 'fecha_de_orden': '06/14/2024', 'total_de_orden': '$101,000.00', 'total_pv': 15.0, 'cicle': 810}
+2024-06-23 22:31:28,618:INFO:Order captured: {'orden': '5576636', 'fecha_de_orden': '06/02/2024', 'total_de_orden': '$87,800.00', 'total_pv': 15.0, 'cicle': 808}
+2024-06-23 22:31:28,637:INFO:Order captured: {'orden': '5560019', 'fecha_de_orden': '05/18/2024', 'total_de_orden': '$175,600.00', 'total_pv': 30.0, 'cicle': 806}
+2024-06-23 22:31:28,653:INFO:Order captured: {'orden': '5560888', 'fecha_de_orden': '05/18/2024', 'total_de_orden': '$87,800.00', 'total_pv': 15.0, 'cicle': 806}
+2024-06-23 22:31:28,670:INFO:Order captured: {'orden': '5532976', 'fecha_de_orden': '04/22/2024', 'total_de_orden': '$87,800.00', 'total_pv': 15.0, 'cicle': 803}
+2024-06-23 22:31:28,686:INFO:Order captured: {'orden': '5522223', 'fecha_de_orden': '04/18/2024', 'total_de_orden': '$175,600.00', 'total_pv': 30.0, 'cicle': 802}
+2024-06-23 22:31:28,702:INFO:Order captured: {'orden': '5519291', 'fecha_de_orden': '04/09/2024', 'total_de_orden': '$30,000.00', 'total_pv': 0.0, 'cicle': 801}
+2024-06-23 22:31:28,717:INFO:Order captured: {'orden': '5516724', 'fecha_de_orden': '04/06/2024', 'total_de_orden': '$63,900.00', 'total_pv': 11.0, 'cicle': 800}
+2024-06-23 22:31:28,732:INFO:Order captured: {'orden': '5494404', 'fecha_de_orden': '03/15/2024', 'total_de_orden': '$3,990,000.00', 'total_pv': 500.0, 'cicle': 797}
+2024-06-23 22:31:28,748:INFO:Order captured: {'orden': '5489736', 'fecha_de_orden': '03/11/2024', 'total_de_orden': '$59,900.00', 'total_pv': 11.0, 'cicle': 797}
+2024-06-23 22:31:30,389:WARNING:Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1026488d0>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/abfa173f776dd290f4e0f35ac2de5245
+2024-06-23 22:31:30,390:WARNING:Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x10264b5d0>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/abfa173f776dd290f4e0f35ac2de5245
+2024-06-23 22:31:30,391:WARNING:Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x10260be90>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/abfa173f776dd290f4e0f35ac2de5245
+2024-06-24 00:07:05,249:INFO:====== WebDriver manager ======
+2024-06-24 00:07:05,327:INFO:Get LATEST chromedriver version for google-chrome
+2024-06-24 00:07:06,395:INFO:Get LATEST chromedriver version for google-chrome
+2024-06-24 00:07:06,467:INFO:Get LATEST chromedriver version for google-chrome
+2024-06-24 00:07:06,606:INFO:WebDriver version 118.0.5993.70 selected
+2024-06-24 00:07:06,607:INFO:Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/118.0.5993.70/mac-arm64/chromedriver-mac-arm64.zip
+2024-06-24 00:07:06,607:INFO:About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/118.0.5993.70/mac-arm64/chromedriver-mac-arm64.zip
+2024-06-24 00:07:06,833:INFO:Driver downloading response is 200
+2024-06-24 00:07:07,160:INFO:Get LATEST chromedriver version for google-chrome
+2024-06-24 00:07:07,321:INFO:Driver has been saved in cache [/Users/juandavidduquea/.wdm/drivers/chromedriver/mac64/118.0.5993.70]
+2024-06-24 00:07:29,346:INFO:Order captured: {'orden': '5590138', 'fecha_de_orden': '06/14/2024', 'total_de_orden': '$101,000.00', 'total_pv': 15.0, 'cicle': 810}
+2024-06-24 00:07:29,368:INFO:Order captured: {'orden': '5576636', 'fecha_de_orden': '06/02/2024', 'total_de_orden': '$87,800.00', 'total_pv': 15.0, 'cicle': 808}
+2024-06-24 00:07:29,386:INFO:Order captured: {'orden': '5560019', 'fecha_de_orden': '05/18/2024', 'total_de_orden': '$175,600.00', 'total_pv': 30.0, 'cicle': 806}
+2024-06-24 00:07:29,402:INFO:Order captured: {'orden': '5560888', 'fecha_de_orden': '05/18/2024', 'total_de_orden': '$87,800.00', 'total_pv': 15.0, 'cicle': 806}
+2024-06-24 00:07:29,418:INFO:Order captured: {'orden': '5532976', 'fecha_de_orden': '04/22/2024', 'total_de_orden': '$87,800.00', 'total_pv': 15.0, 'cicle': 803}
+2024-06-24 00:07:29,438:INFO:Order captured: {'orden': '5522223', 'fecha_de_orden': '04/18/2024', 'total_de_orden': '$175,600.00', 'total_pv': 30.0, 'cicle': 802}
+2024-06-24 00:07:29,458:INFO:Order captured: {'orden': '5519291', 'fecha_de_orden': '04/09/2024', 'total_de_orden': '$30,000.00', 'total_pv': 0.0, 'cicle': 801}
+2024-06-24 00:07:29,475:INFO:Order captured: {'orden': '5516724', 'fecha_de_orden': '04/06/2024', 'total_de_orden': '$63,900.00', 'total_pv': 11.0, 'cicle': 800}
+2024-06-24 00:07:29,490:INFO:Order captured: {'orden': '5494404', 'fecha_de_orden': '03/15/2024', 'total_de_orden': '$3,990,000.00', 'total_pv': 500.0, 'cicle': 797}
+2024-06-24 00:07:29,506:INFO:Order captured: {'orden': '5489736', 'fecha_de_orden': '03/11/2024', 'total_de_orden': '$59,900.00', 'total_pv': 11.0, 'cicle': 797}
+2024-06-24 00:07:29,531:INFO:Order captured: {'orden': '5590138', 'fecha_de_orden': '06/14/2024', 'total_de_orden': '$101,000.00', 'total_pv': 15.0, 'cicle': 810}
+2024-06-24 00:07:29,547:INFO:Order captured: {'orden': '5576636', 'fecha_de_orden': '06/02/2024', 'total_de_orden': '$87,800.00', 'total_pv': 15.0, 'cicle': 808}
+2024-06-24 00:07:29,564:INFO:Order captured: {'orden': '5560019', 'fecha_de_orden': '05/18/2024', 'total_de_orden': '$175,600.00', 'total_pv': 30.0, 'cicle': 806}
+2024-06-24 00:07:29,580:INFO:Order captured: {'orden': '5560888', 'fecha_de_orden': '05/18/2024', 'total_de_orden': '$87,800.00', 'total_pv': 15.0, 'cicle': 806}
+2024-06-24 00:07:29,597:INFO:Order captured: {'orden': '5532976', 'fecha_de_orden': '04/22/2024', 'total_de_orden': '$87,800.00', 'total_pv': 15.0, 'cicle': 803}
+2024-06-24 00:07:29,612:INFO:Order captured: {'orden': '5522223', 'fecha_de_orden': '04/18/2024', 'total_de_orden': '$175,600.00', 'total_pv': 30.0, 'cicle': 802}
+2024-06-24 00:07:29,626:INFO:Order captured: {'orden': '5519291', 'fecha_de_orden': '04/09/2024', 'total_de_orden': '$30,000.00', 'total_pv': 0.0, 'cicle': 801}
+2024-06-24 00:07:29,646:INFO:Order captured: {'orden': '5516724', 'fecha_de_orden': '04/06/2024', 'total_de_orden': '$63,900.00', 'total_pv': 11.0, 'cicle': 800}
+2024-06-24 00:07:29,661:INFO:Order captured: {'orden': '5494404', 'fecha_de_orden': '03/15/2024', 'total_de_orden': '$3,990,000.00', 'total_pv': 500.0, 'cicle': 797}
+2024-06-24 00:07:29,676:INFO:Order captured: {'orden': '5489736', 'fecha_de_orden': '03/11/2024', 'total_de_orden': '$59,900.00', 'total_pv': 11.0, 'cicle': 797}
+2024-06-24 00:07:31,470:WARNING:Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x102881210>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/160ff80d5edff07560d33b3f23c169b0
+2024-06-24 00:07:31,470:WARNING:Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x102880a90>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/160ff80d5edff07560d33b3f23c169b0
+2024-06-24 00:07:31,471:WARNING:Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x102883950>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/160ff80d5edff07560d33b3f23c169b0
+2024-06-30 22:04:51,791:INFO:====== WebDriver manager ======
+2024-06-30 22:04:51,889:INFO:Get LATEST chromedriver version for google-chrome
+2024-06-30 22:04:51,936:INFO:Get LATEST chromedriver version for google-chrome
+2024-06-30 22:04:51,981:INFO:Get LATEST chromedriver version for google-chrome
+2024-06-30 22:04:52,096:INFO:WebDriver version 118.0.5993.70 selected
+2024-06-30 22:04:52,097:INFO:Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/118.0.5993.70/mac-arm64/chromedriver-mac-arm64.zip
+2024-06-30 22:04:52,097:INFO:About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/118.0.5993.70/mac-arm64/chromedriver-mac-arm64.zip
+2024-06-30 22:04:52,479:INFO:Driver downloading response is 200
+2024-06-30 22:04:53,054:INFO:Get LATEST chromedriver version for google-chrome
+2024-06-30 22:04:53,208:INFO:Driver has been saved in cache [/Users/juandavidduquea/.wdm/drivers/chromedriver/mac64/118.0.5993.70]
+2024-06-30 22:05:25,740:INFO:Order captured: {'orden': '5579657', 'fecha_de_orden': '06/05/2024', 'total_de_orden': '$1,095,000.01', 'total_pv': 62.4, 'cicle': 809}
+2024-06-30 22:05:25,760:INFO:Order captured: {'orden': '5576630', 'fecha_de_orden': '06/02/2024', 'total_de_orden': '$3,990,000.00', 'total_pv': 500.0, 'cicle': 808}
+2024-06-30 22:05:25,777:INFO:Order captured: {'orden': '5537727', 'fecha_de_orden': '04/27/2024', 'total_de_orden': '$662,599.99', 'total_pv': 114.0, 'cicle': 803}
+2024-06-30 22:05:25,793:INFO:Order captured: {'orden': '5502009', 'fecha_de_orden': '03/22/2024', 'total_de_orden': '$120,000.00', 'total_pv': 0.0, 'cicle': 798}
+2024-06-30 22:05:25,809:INFO:Order captured: {'orden': '5495406', 'fecha_de_orden': '03/16/2024', 'total_de_orden': '$3,990,000.00', 'total_pv': 500.0, 'cicle': 797}
+2024-06-30 22:05:25,825:INFO:Order captured: {'orden': '5421068', 'fecha_de_orden': '03/10/2024', 'total_de_orden': '$351,200.00', 'total_pv': 60.0, 'cicle': 796}
+2024-06-30 22:05:25,840:INFO:Order captured: {'orden': '5462699', 'fecha_de_orden': '02/16/2024', 'total_de_orden': '$231,500.00', 'total_pv': 41.0, 'cicle': 793}
+2024-06-30 22:05:25,855:INFO:Order captured: {'orden': '5437039', 'fecha_de_orden': '01/27/2024', 'total_de_orden': '$387,100.00', 'total_pv': 66.0, 'cicle': 790}
+2024-06-30 22:05:25,870:INFO:Order captured: {'orden': '5415013', 'fecha_de_orden': '01/07/2024', 'total_de_orden': '$271,400.00', 'total_pv': 47.0, 'cicle': 787}
+2024-06-30 22:05:25,885:INFO:Order captured: {'orden': '5395088', 'fecha_de_orden': '12/16/2023', 'total_de_orden': '$367,200.00', 'total_pv': 64.0, 'cicle': 784}
+2024-06-30 22:05:25,909:INFO:Order captured: {'orden': '5579657', 'fecha_de_orden': '06/05/2024', 'total_de_orden': '$1,095,000.01', 'total_pv': 62.4, 'cicle': 809}
+2024-06-30 22:05:25,927:INFO:Order captured: {'orden': '5576630', 'fecha_de_orden': '06/02/2024', 'total_de_orden': '$3,990,000.00', 'total_pv': 500.0, 'cicle': 808}
+2024-06-30 22:05:25,944:INFO:Order captured: {'orden': '5537727', 'fecha_de_orden': '04/27/2024', 'total_de_orden': '$662,599.99', 'total_pv': 114.0, 'cicle': 803}
+2024-06-30 22:05:25,961:INFO:Order captured: {'orden': '5502009', 'fecha_de_orden': '03/22/2024', 'total_de_orden': '$120,000.00', 'total_pv': 0.0, 'cicle': 798}
+2024-06-30 22:05:25,978:INFO:Order captured: {'orden': '5495406', 'fecha_de_orden': '03/16/2024', 'total_de_orden': '$3,990,000.00', 'total_pv': 500.0, 'cicle': 797}
+2024-06-30 22:05:25,994:INFO:Order captured: {'orden': '5421068', 'fecha_de_orden': '03/10/2024', 'total_de_orden': '$351,200.00', 'total_pv': 60.0, 'cicle': 796}
+2024-06-30 22:05:26,010:INFO:Order captured: {'orden': '5462699', 'fecha_de_orden': '02/16/2024', 'total_de_orden': '$231,500.00', 'total_pv': 41.0, 'cicle': 793}
+2024-06-30 22:05:26,029:INFO:Order captured: {'orden': '5437039', 'fecha_de_orden': '01/27/2024', 'total_de_orden': '$387,100.00', 'total_pv': 66.0, 'cicle': 790}
+2024-06-30 22:05:26,043:INFO:Order captured: {'orden': '5415013', 'fecha_de_orden': '01/07/2024', 'total_de_orden': '$271,400.00', 'total_pv': 47.0, 'cicle': 787}
+2024-06-30 22:05:26,058:INFO:Order captured: {'orden': '5395088', 'fecha_de_orden': '12/16/2023', 'total_de_orden': '$367,200.00', 'total_pv': 64.0, 'cicle': 784}
+2024-06-30 22:05:27,858:WARNING:Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x105a7b2d0>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/a24c083439109454d63569d1c99ed471
+2024-06-30 22:05:27,859:WARNING:Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x105a78750>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/a24c083439109454d63569d1c99ed471
+2024-06-30 22:05:27,861:WARNING:Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x105a797d0>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/a24c083439109454d63569d1c99ed471
+2024-06-30 22:42:59,026:INFO:====== WebDriver manager ======
+2024-06-30 22:42:59,100:INFO:Get LATEST chromedriver version for google-chrome
+2024-06-30 22:42:59,152:INFO:Get LATEST chromedriver version for google-chrome
+2024-06-30 22:42:59,177:INFO:Driver [/Users/juandavidduquea/.wdm/drivers/chromedriver/mac64/118.0.5993.70/chromedriver-mac-arm64/chromedriver] found in cache
+2024-06-30 22:43:28,410:INFO:Order captured: {'orden': '5608518', 'fecha_de_orden': '06/30/2024', 'total_de_orden': '$287,400.00', 'total_pv': 46.8, 'cicle': 812}
+2024-06-30 22:43:28,430:INFO:Order captured: {'orden': '5579657', 'fecha_de_orden': '06/05/2024', 'total_de_orden': '$1,095,000.01', 'total_pv': 62.4, 'cicle': 809}
+2024-06-30 22:43:28,449:INFO:Order captured: {'orden': '5576630', 'fecha_de_orden': '06/02/2024', 'total_de_orden': '$3,990,000.00', 'total_pv': 500.0, 'cicle': 808}
+2024-06-30 22:43:28,466:INFO:Order captured: {'orden': '5537727', 'fecha_de_orden': '04/27/2024', 'total_de_orden': '$662,599.99', 'total_pv': 114.0, 'cicle': 803}
+2024-06-30 22:43:28,482:INFO:Order captured: {'orden': '5502009', 'fecha_de_orden': '03/22/2024', 'total_de_orden': '$120,000.00', 'total_pv': 0.0, 'cicle': 798}
+2024-06-30 22:43:28,498:INFO:Order captured: {'orden': '5495406', 'fecha_de_orden': '03/16/2024', 'total_de_orden': '$3,990,000.00', 'total_pv': 500.0, 'cicle': 797}
+2024-06-30 22:43:28,514:INFO:Order captured: {'orden': '5421068', 'fecha_de_orden': '03/10/2024', 'total_de_orden': '$351,200.00', 'total_pv': 60.0, 'cicle': 796}
+2024-06-30 22:43:28,529:INFO:Order captured: {'orden': '5462699', 'fecha_de_orden': '02/16/2024', 'total_de_orden': '$231,500.00', 'total_pv': 41.0, 'cicle': 793}
+2024-06-30 22:43:28,545:INFO:Order captured: {'orden': '5437039', 'fecha_de_orden': '01/27/2024', 'total_de_orden': '$387,100.00', 'total_pv': 66.0, 'cicle': 790}
+2024-06-30 22:43:28,561:INFO:Order captured: {'orden': '5415013', 'fecha_de_orden': '01/07/2024', 'total_de_orden': '$271,400.00', 'total_pv': 47.0, 'cicle': 787}
+2024-06-30 22:43:28,588:INFO:Order captured: {'orden': '5608518', 'fecha_de_orden': '06/30/2024', 'total_de_orden': '$287,400.00', 'total_pv': 46.8, 'cicle': 812}
+2024-06-30 22:43:28,606:INFO:Order captured: {'orden': '5579657', 'fecha_de_orden': '06/05/2024', 'total_de_orden': '$1,095,000.01', 'total_pv': 62.4, 'cicle': 809}
+2024-06-30 22:43:28,622:INFO:Order captured: {'orden': '5576630', 'fecha_de_orden': '06/02/2024', 'total_de_orden': '$3,990,000.00', 'total_pv': 500.0, 'cicle': 808}
+2024-06-30 22:43:28,638:INFO:Order captured: {'orden': '5537727', 'fecha_de_orden': '04/27/2024', 'total_de_orden': '$662,599.99', 'total_pv': 114.0, 'cicle': 803}
+2024-06-30 22:43:28,654:INFO:Order captured: {'orden': '5502009', 'fecha_de_orden': '03/22/2024', 'total_de_orden': '$120,000.00', 'total_pv': 0.0, 'cicle': 798}
+2024-06-30 22:43:28,669:INFO:Order captured: {'orden': '5495406', 'fecha_de_orden': '03/16/2024', 'total_de_orden': '$3,990,000.00', 'total_pv': 500.0, 'cicle': 797}
+2024-06-30 22:43:28,686:INFO:Order captured: {'orden': '5421068', 'fecha_de_orden': '03/10/2024', 'total_de_orden': '$351,200.00', 'total_pv': 60.0, 'cicle': 796}
+2024-06-30 22:43:28,701:INFO:Order captured: {'orden': '5462699', 'fecha_de_orden': '02/16/2024', 'total_de_orden': '$231,500.00', 'total_pv': 41.0, 'cicle': 793}
+2024-06-30 22:43:28,717:INFO:Order captured: {'orden': '5437039', 'fecha_de_orden': '01/27/2024', 'total_de_orden': '$387,100.00', 'total_pv': 66.0, 'cicle': 790}
+2024-06-30 22:43:28,732:INFO:Order captured: {'orden': '5415013', 'fecha_de_orden': '01/07/2024', 'total_de_orden': '$271,400.00', 'total_pv': 47.0, 'cicle': 787}
+2024-06-30 22:43:30,465:WARNING:Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x105acbdd0>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/9b9789bd57ed69ac07a7ab4302c4b0b9
+2024-06-30 22:43:30,473:WARNING:Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x10596e590>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/9b9789bd57ed69ac07a7ab4302c4b0b9
+2024-06-30 22:43:30,474:WARNING:Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x10596f190>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/9b9789bd57ed69ac07a7ab4302c4b0b9
+2024-07-05 11:23:08,311:INFO:====== WebDriver manager ======
+2024-07-05 11:23:08,423:INFO:Get LATEST chromedriver version for google-chrome
+2024-07-05 11:23:08,876:INFO:Get LATEST chromedriver version for google-chrome
+2024-07-05 11:23:09,013:INFO:Get LATEST chromedriver version for google-chrome
+2024-07-05 11:23:09,700:INFO:WebDriver version 118.0.5993.70 selected
+2024-07-05 11:23:09,701:INFO:Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/118.0.5993.70/mac-arm64/chromedriver-mac-arm64.zip
+2024-07-05 11:23:09,701:INFO:About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/118.0.5993.70/mac-arm64/chromedriver-mac-arm64.zip
+2024-07-05 11:23:10,125:INFO:Driver downloading response is 200
+2024-07-05 11:23:38,920:INFO:Get LATEST chromedriver version for google-chrome
+2024-07-05 11:23:39,178:INFO:Driver has been saved in cache [/Users/juandavidduquea/.wdm/drivers/chromedriver/mac64/118.0.5993.70]
+2024-07-18 22:57:47,908:INFO:====== WebDriver manager ======
+2024-07-18 22:57:47,987:INFO:Get LATEST chromedriver version for google-chrome
+2024-07-18 22:57:48,092:INFO:Get LATEST chromedriver version for google-chrome
+2024-07-18 22:57:48,118:INFO:Driver [/Users/juandavidduquea/.wdm/drivers/chromedriver/mac64/118.0.5993.70/chromedriver-mac-arm64/chromedriver] found in cache
+2024-07-18 22:58:28,941:INFO:Order captured: {'orden': '5613371', 'fecha_de_orden': '07/05/2024', 'total_de_orden': '$279,400.01', 'total_pv': 49.0, 'cicle': 813}
+2024-07-18 22:58:28,960:INFO:Order captured: {'orden': '5601500', 'fecha_de_orden': '06/24/2024', 'total_de_orden': '$95,800.00', 'total_pv': 17.0, 'cicle': 812}
+2024-07-18 22:58:28,977:INFO:Order captured: {'orden': '5564880', 'fecha_de_orden': '05/22/2024', 'total_de_orden': '$263,400.00', 'total_pv': 45.0, 'cicle': 807}
+2024-07-18 22:58:28,992:INFO:Order captured: {'orden': '5554707', 'fecha_de_orden': '05/14/2024', 'total_de_orden': '$87,800.00', 'total_pv': 15.0, 'cicle': 806}
+2024-07-18 22:58:29,008:INFO:Order captured: {'orden': '5521296', 'fecha_de_orden': '04/11/2024', 'total_de_orden': '$263,400.00', 'total_pv': 45.0, 'cicle': 801}
+2024-07-18 22:58:29,024:INFO:Order captured: {'orden': '5512469', 'fecha_de_orden': '04/03/2024', 'total_de_orden': '$87,800.00', 'total_pv': 15.0, 'cicle': 800}
+2024-07-18 22:58:29,039:INFO:Order captured: {'orden': '5476641', 'fecha_de_orden': '02/28/2024', 'total_de_orden': '$175,600.00', 'total_pv': 30.0, 'cicle': 795}
+2024-07-18 22:58:29,054:INFO:Order captured: {'orden': '5476650', 'fecha_de_orden': '02/28/2024', 'total_de_orden': '$87,800.00', 'total_pv': 15.0, 'cicle': 795}
+2024-07-18 22:58:29,069:INFO:Order captured: {'orden': '5473030', 'fecha_de_orden': '02/25/2024', 'total_de_orden': '$175,600.00', 'total_pv': 30.0, 'cicle': 794}
+2024-07-18 22:58:29,084:INFO:Order captured: {'orden': '5429022', 'fecha_de_orden': '01/20/2024', 'total_de_orden': '$351,200.00', 'total_pv': 60.0, 'cicle': 789}
+2024-07-18 22:58:29,109:INFO:Order captured: {'orden': '5613371', 'fecha_de_orden': '07/05/2024', 'total_de_orden': '$279,400.01', 'total_pv': 49.0, 'cicle': 813}
+2024-07-18 22:58:29,124:INFO:Order captured: {'orden': '5601500', 'fecha_de_orden': '06/24/2024', 'total_de_orden': '$95,800.00', 'total_pv': 17.0, 'cicle': 812}
+2024-07-18 22:58:29,140:INFO:Order captured: {'orden': '5564880', 'fecha_de_orden': '05/22/2024', 'total_de_orden': '$263,400.00', 'total_pv': 45.0, 'cicle': 807}
+2024-07-18 22:58:29,155:INFO:Order captured: {'orden': '5554707', 'fecha_de_orden': '05/14/2024', 'total_de_orden': '$87,800.00', 'total_pv': 15.0, 'cicle': 806}
+2024-07-18 22:58:29,171:INFO:Order captured: {'orden': '5521296', 'fecha_de_orden': '04/11/2024', 'total_de_orden': '$263,400.00', 'total_pv': 45.0, 'cicle': 801}
+2024-07-18 22:58:29,186:INFO:Order captured: {'orden': '5512469', 'fecha_de_orden': '04/03/2024', 'total_de_orden': '$87,800.00', 'total_pv': 15.0, 'cicle': 800}
+2024-07-18 22:58:29,201:INFO:Order captured: {'orden': '5476641', 'fecha_de_orden': '02/28/2024', 'total_de_orden': '$175,600.00', 'total_pv': 30.0, 'cicle': 795}
+2024-07-18 22:58:29,217:INFO:Order captured: {'orden': '5476650', 'fecha_de_orden': '02/28/2024', 'total_de_orden': '$87,800.00', 'total_pv': 15.0, 'cicle': 795}
+2024-07-18 22:58:29,232:INFO:Order captured: {'orden': '5473030', 'fecha_de_orden': '02/25/2024', 'total_de_orden': '$175,600.00', 'total_pv': 30.0, 'cicle': 794}
+2024-07-18 22:58:29,250:INFO:Order captured: {'orden': '5429022', 'fecha_de_orden': '01/20/2024', 'total_de_orden': '$351,200.00', 'total_pv': 60.0, 'cicle': 789}
+2024-07-18 22:58:30,934:WARNING:Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x105838150>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/04a13bec73b6e52db1176d6894be1fcf
+2024-07-18 22:58:30,935:WARNING:Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x105839390>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/04a13bec73b6e52db1176d6894be1fcf
+2024-07-18 22:58:30,935:WARNING:Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x10583ac10>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/04a13bec73b6e52db1176d6894be1fcf
+2024-07-25 22:39:23,216:INFO:====== WebDriver manager ======
+2024-07-25 22:39:23,308:INFO:Get LATEST chromedriver version for google-chrome
+2024-07-25 22:39:23,412:INFO:Get LATEST chromedriver version for google-chrome
+2024-07-25 22:39:23,441:INFO:Get LATEST chromedriver version for google-chrome
+2024-07-25 22:39:23,509:INFO:WebDriver version 118.0.5993.70 selected
+2024-07-25 22:39:23,510:INFO:Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/118.0.5993.70/mac-arm64/chromedriver-mac-arm64.zip
+2024-07-25 22:39:23,510:INFO:About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/118.0.5993.70/mac-arm64/chromedriver-mac-arm64.zip
+2024-07-25 22:39:23,886:INFO:Driver downloading response is 200
+2024-07-25 22:39:24,804:INFO:Get LATEST chromedriver version for google-chrome
+2024-07-25 22:39:24,975:INFO:Driver has been saved in cache [/Users/juandavidduquea/.wdm/drivers/chromedriver/mac64/118.0.5993.70]
+2024-07-25 22:39:58,045:INFO:Order captured: {'orden': '5613371', 'fecha_de_orden': '07/05/2024', 'total_de_orden': '$279,400.01', 'total_pv': 49.0, 'cicle': 813}
+2024-07-25 22:39:58,066:INFO:Order captured: {'orden': '5601500', 'fecha_de_orden': '06/24/2024', 'total_de_orden': '$95,800.00', 'total_pv': 17.0, 'cicle': 812}
+2024-07-25 22:39:58,084:INFO:Order captured: {'orden': '5564880', 'fecha_de_orden': '05/22/2024', 'total_de_orden': '$263,400.00', 'total_pv': 45.0, 'cicle': 807}
+2024-07-25 22:39:58,100:INFO:Order captured: {'orden': '5554707', 'fecha_de_orden': '05/14/2024', 'total_de_orden': '$87,800.00', 'total_pv': 15.0, 'cicle': 806}
+2024-07-25 22:39:58,116:INFO:Order captured: {'orden': '5521296', 'fecha_de_orden': '04/11/2024', 'total_de_orden': '$263,400.00', 'total_pv': 45.0, 'cicle': 801}
+2024-07-25 22:39:58,131:INFO:Order captured: {'orden': '5512469', 'fecha_de_orden': '04/03/2024', 'total_de_orden': '$87,800.00', 'total_pv': 15.0, 'cicle': 800}
+2024-07-25 22:39:58,147:INFO:Order captured: {'orden': '5476641', 'fecha_de_orden': '02/28/2024', 'total_de_orden': '$175,600.00', 'total_pv': 30.0, 'cicle': 795}
+2024-07-25 22:39:58,162:INFO:Order captured: {'orden': '5476650', 'fecha_de_orden': '02/28/2024', 'total_de_orden': '$87,800.00', 'total_pv': 15.0, 'cicle': 795}
+2024-07-25 22:39:58,178:INFO:Order captured: {'orden': '5473030', 'fecha_de_orden': '02/25/2024', 'total_de_orden': '$175,600.00', 'total_pv': 30.0, 'cicle': 794}
+2024-07-25 22:39:58,193:INFO:Order captured: {'orden': '5429022', 'fecha_de_orden': '01/20/2024', 'total_de_orden': '$351,200.00', 'total_pv': 60.0, 'cicle': 789}
+2024-07-25 22:39:58,218:INFO:Order captured: {'orden': '5613371', 'fecha_de_orden': '07/05/2024', 'total_de_orden': '$279,400.01', 'total_pv': 49.0, 'cicle': 813}
+2024-07-25 22:39:58,234:INFO:Order captured: {'orden': '5601500', 'fecha_de_orden': '06/24/2024', 'total_de_orden': '$95,800.00', 'total_pv': 17.0, 'cicle': 812}
+2024-07-25 22:39:58,253:INFO:Order captured: {'orden': '5564880', 'fecha_de_orden': '05/22/2024', 'total_de_orden': '$263,400.00', 'total_pv': 45.0, 'cicle': 807}
+2024-07-25 22:39:58,268:INFO:Order captured: {'orden': '5554707', 'fecha_de_orden': '05/14/2024', 'total_de_orden': '$87,800.00', 'total_pv': 15.0, 'cicle': 806}
+2024-07-25 22:39:58,283:INFO:Order captured: {'orden': '5521296', 'fecha_de_orden': '04/11/2024', 'total_de_orden': '$263,400.00', 'total_pv': 45.0, 'cicle': 801}
+2024-07-25 22:39:58,298:INFO:Order captured: {'orden': '5512469', 'fecha_de_orden': '04/03/2024', 'total_de_orden': '$87,800.00', 'total_pv': 15.0, 'cicle': 800}
+2024-07-25 22:39:58,313:INFO:Order captured: {'orden': '5476641', 'fecha_de_orden': '02/28/2024', 'total_de_orden': '$175,600.00', 'total_pv': 30.0, 'cicle': 795}
+2024-07-25 22:39:58,328:INFO:Order captured: {'orden': '5476650', 'fecha_de_orden': '02/28/2024', 'total_de_orden': '$87,800.00', 'total_pv': 15.0, 'cicle': 795}
+2024-07-25 22:39:58,343:INFO:Order captured: {'orden': '5473030', 'fecha_de_orden': '02/25/2024', 'total_de_orden': '$175,600.00', 'total_pv': 30.0, 'cicle': 794}
+2024-07-25 22:39:58,358:INFO:Order captured: {'orden': '5429022', 'fecha_de_orden': '01/20/2024', 'total_de_orden': '$351,200.00', 'total_pv': 60.0, 'cicle': 789}
+2024-07-25 22:40:00,077:WARNING:Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x101e8e990>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/8185997714c026d625f2a29a5596cf7f
+2024-07-25 22:40:00,078:WARNING:Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x101e8c150>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/8185997714c026d625f2a29a5596cf7f
+2024-07-25 22:40:00,078:WARNING:Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x101e8f990>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/8185997714c026d625f2a29a5596cf7f

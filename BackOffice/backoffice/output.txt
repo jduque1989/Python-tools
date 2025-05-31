@@ -1,0 +1,27 @@
+Navigated to https://colombia.ganoexcel.com/Downline.aspx
+Ciclo: 794
+Periodo: 02/19/2024 - 02/25/2024
+PV del Ciclo: 107
+Rango Estimado: Bronze
+Inscritos Total: 27
+CVS:  2,963
+----------------------------------------------------------------------
+Left Branch Country      Value | Right Branch Country     Value
+----------------------------------------------------------------------
+USA                        242 | USA                        125
+Canada                      70 | Canada                       0
+Colombia                  4643 | Colombia                  2082
+Dominican                    0 | Dominican                    0
+Ecuador                      0 | Ecuador                      0
+El Salvador                532 | El Salvador                  0
+Mexico                       0 | Mexico                     226
+Peru                       500 | Peru                         0
+Puerto Rico                  0 | Puerto Rico                  0
+Costa Rica                   0 | Costa Rica                   0
+Panama                       0 | Panama                       0
+Guatemala                    0 | Guatemala                    0
+Bolivia                      0 | Bolivia                      0
+
+Total Sums:
+Left Branch Sum:          5987 | Right Branch Sum:         2433
+Screenshot saved to screenshot.png
