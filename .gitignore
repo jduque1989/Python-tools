@@ -1,2 +1,24 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+env/
+venv/
+.env
+
+# IDE files
+.vscode/
+.idea/
+
+# Logs and temporary files
+*.log
+*.tmp
+*.webm
+
+# Other common files
+*.DS_Store
+*.egg-info/
+*.egg
 Dermalife/code_failure/
 hangman/__pycache__/
